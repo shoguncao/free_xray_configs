@@ -99,3 +99,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 trojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A5%20TROJAN-452%20%7C%20free-nodes
 xray_link: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#https://t.me/v2raynplus |🇳🇱🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw@87.121.162.249:443#🔴46@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#SS-@V2rayAlpha--69
