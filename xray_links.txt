@@ -117,3 +117,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw=
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#1
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%207.5MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.177-7375
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0273
