@@ -123,3 +123,4 @@ trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?allowInsecure=0&sni=shoppingmall.e
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#US%20SS-01%20%7C%20free-nodes
 ss://YWVzLTI1Ni1nY206ZDk4OWZmM2Q0NmE2M2Y2Mw@185.22.154.75:10081#RU%20SS-10%20%7C%20free-nodes
 trojan://76d630f2af6619c4a5de0ef953df3c6a@58.152.110.82:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
+trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.235:2890?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
