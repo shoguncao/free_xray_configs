@@ -146,3 +146,4 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?path=%2Fnews&secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#%3E%3E%40OutlineVpnOfficial%3A%3AXX
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=/yhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#US%20SS-08%20%7C%20free-nodes
