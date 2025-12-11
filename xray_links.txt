@@ -143,3 +143,4 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.214.6:2890?allowInsecure=0&sni=
 vless://dfac7622-66ca-4efe-9976-76f04f4e5d8b@m65a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=none&encryption=none&type=grpc#@ShikaVPN
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?path=%2Fnews&security=&encryption=none&host=cdn.ir&type=ws#%3E%3E%40configV2rayNG%3A%3ADE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#%3E%3E%40OutlineVpnOfficial%3A%3AXX
