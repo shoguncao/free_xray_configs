@@ -169,3 +169,4 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=0&sni=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0438
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#🔵45@oneclickvpnkeys
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%E6%9C%AA%E7%9F%A5%20TROJAN-265%20%7C%20free-nodes
+vmess://eyJhZGQiOiI0Ny4yNTMuMTk3LjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRkN2JlN2YxLTM4ZmYtNDVlNi1mMWU1LWIyMGMyMTkwZjUyNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTIwNTYiLCJwcyI6IvCfn6M1NUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
