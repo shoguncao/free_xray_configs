@@ -158,3 +158,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUzJRdmJDOW5xTHAyc1hYWm8wQlZ5NHNsY0VyUnVDdA=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg==@5.182.37.87:443#%F0%9F%87%B7%F0%9F%87%BARU-5.182.37.87-0272
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassoo.info#@Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0459
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#🇬🇧@FreakConfig
