@@ -181,3 +181,4 @@ vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=/c
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.89.176:4054?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#%3E%3E%40v2line%3A%3AXX
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AASE-70.34.218.149-0289
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443?path=/?ed&security=tls&encryption=none&host=vless5-edu.pages.dev&fp=chrome&type=ws&sni=vless5-edu.pages.dev#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=%2Ftixvuws&security=tls&encryption=none&insecure=1&host=vangoghh.info&type=ws&allowInsecure=1&sni=vangoghh.info#%E6%9C%AA%E7%9F%A5%20VLESS-119%20%7C%20free-nodes
