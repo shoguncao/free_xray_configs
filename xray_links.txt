@@ -186,3 +186,4 @@ trojan://BxceQaOe@58.152.53.174:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.18-0386
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.251-0365
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#🇳🇱@FreakConfig
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#[🇨🇦]t.me/ConfigsHub
