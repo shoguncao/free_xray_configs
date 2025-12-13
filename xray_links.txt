@@ -211,3 +211,4 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=ww
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.193-0369
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.177-0251
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=0&host=639008791615856318.golf-amsix.info&type=ws&allowInsecure=0&sni=639008791615856318.golf-amsix.info#limo
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#%E2%99%A8%EF%B8%8F%20%40PlanB_net%20%D9%85%D9%86%D8%A8%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
