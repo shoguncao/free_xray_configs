@@ -202,3 +202,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.35-0339
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
 trojan://BxceQaOe@52.195.194.77:1924?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 699 # 🔒 [By EbraSha]
+vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?encryption=none&security=tls&sni=free-server.techsonic.cloud&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%3E%3E%40v2nodes%3A%3ASG
