@@ -204,3 +204,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157
 trojan://BxceQaOe@52.195.194.77:1924?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 699 # 🔒 [By EbraSha]
 vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?encryption=none&security=tls&sni=free-server.techsonic.cloud&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%3E%3E%40v2nodes%3A%3ASG
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&type=ws&allowInsecure=0&sni=picassoo.info#limo
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?security=tls&type=ws&path=/yhowcws&host=azizoarjmand.info&sni=azizoarjmand.info&fp=chrome&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇺🇸US 🧭 5.0MB/s
