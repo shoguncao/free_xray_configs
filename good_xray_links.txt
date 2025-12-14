@@ -209,3 +209,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8
 trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 606 # 🔒 [By EbraSha]
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?encryption=none&security=none&type=grpc#%40Daily_Configs
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&type=ws&allowInsecure=0&sni=azizoarjmand.info#@Daily_Configs
+vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.178.246:41647/?type=grpc&encryption=none&flow=#💠5@oneclickvpnkeys
