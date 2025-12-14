@@ -237,3 +237,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%3E%3E%40configV2rayNG%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.158.171.70-0375
 trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 606 # 🔒 [By EbraSha]
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?encryption=none&security=none&type=grpc#%40Daily_Configs
