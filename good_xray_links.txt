@@ -210,3 +210,4 @@ trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?allowInsecure=1&sni=🔒 [By 
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?encryption=none&security=none&type=grpc#%40Daily_Configs
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&type=ws&allowInsecure=0&sni=azizoarjmand.info#@Daily_Configs
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.178.246:41647/?type=grpc&encryption=none&flow=#💠5@oneclickvpnkeys
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=none&encryption=none&authority=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#t.me/entryNET/config=1851386774092954
