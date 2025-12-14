@@ -222,3 +222,4 @@ vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@84.8.145.58:443/?type=ws&encryption
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpCUiIsImFkZCI6Ijk1LjE2NC40Ljg4IiwicG9ydCI6IjgwIiwiaWQiOiJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-6791
 vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?path=/XqtZ2JB0WH2bmNOL?ed&security=tls&encryption=none&host=PmlMyazd.pagEs.Dev&fp=chrome&type=ws&sni=PmlMyazd.pagEs.Dev#@Broz_time > کانفیگ رایگان
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.124.55:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-0889
