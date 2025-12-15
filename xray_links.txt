@@ -247,3 +247,4 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.242.183:1331?security=tls&sni=w
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=none&encryption=none&authority=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#t.me/entryNET/config=1851386774092954
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-0296
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbW43ZEhQdzV3TmZrcVFNUGNHV1FB@31.3.209.183:28212?type=tcp#🇰🇿 @𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی
+vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?security=none&type=ws&path=/🔒 [By EbraSha]&host=icy-wildflower-2590.lihuifeng595.workers.dev&encryption=none&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
