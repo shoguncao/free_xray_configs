@@ -278,3 +278,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg=
 vless://cedf84c5-d429-4e42-a977-18c597a3c51a@144.126.230.207:443/?type=ws&encryption=none&flow=&path=/bwcqggws&security=tls&sni=m.vk.com&allowInsecure=1#🔶46@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0224
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_18%20%F0%9F%A7%AD%205.6MB%2Fs`
+vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#@Broz_time > کانفیگ رایگان
