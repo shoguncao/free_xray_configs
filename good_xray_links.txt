@@ -225,3 +225,4 @@ vless://784ac0b2-3837-4889-8ad6-b58259dd1d0f@94.131.118.18:443/?type=ws&encrypti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%3E%3E%40OutlineVpnOfficial%3A%3AAR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#%F0%9F%87%B8%F0%9F%87%ACSG-167.150.100.115-0312
 vless://cedf84c5-d429-4e42-a977-18c597a3c51a@144.126.230.207:443/?type=ws&encryption=none&flow=&path=/bwcqggws&security=tls&sni=m.vk.com&allowInsecure=1#🔶46@oneclickvpnkeys
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0224
