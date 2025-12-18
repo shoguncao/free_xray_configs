@@ -232,3 +232,4 @@ vless://fe85a6d5-f2a3-4e7b-ea9b-9c0c2c0c64f0@Free.fast199.hosting-ip.com:80?type
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?security=tls&type=ws&path=/&host=ziyong.boringdad.netlib.re&sni=ziyong.boringdad.netlib.re&fp=chrome&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_8 🧭 4.8MB/s
 trojan://90y2l3mu48d10uy3ibad@195.154.202.112:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅38@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-0334
+vless://f85e7cc8-82c9-4b84-b1bf-25011697b6dd@167.172.59.135:443/?type=ws&encryption=none&flow=&path=/afrphkws&security=tls&sni=io.ozone.ru&allowInsecure=1#🔶76@oneclickvpnkeys
