@@ -292,3 +292,4 @@ vless://f85e7cc8-82c9-4b84-b1bf-25011697b6dd@167.172.59.135:443/?type=ws&encrypt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%3E%3E%40FreakConfig%3A%3AXX
 vmess://eyJhZGQiOiIxNTQuMjAxLjc2LjE3MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0OTZjZWM3MS1hMGZkLTRmMjUtYmJhMS1jYmE5ZTlkNWE1MmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIxIiwicHMiOiLwn4e68J+HuEFaQVJCQVlKQUIxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://f1ea701d-e33b-4606-955b-3d788b8b8860@sv1.avaaal.ir:12559?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#https://t.me/v2rayNplus |🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#%F0%9F%87%B2%F0%9F%87%A9MD-213.159.67.124-0380
