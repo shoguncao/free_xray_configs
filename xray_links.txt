@@ -286,3 +286,4 @@ vless://fe85a6d5-f2a3-4e7b-ea9b-9c0c2c0c64f0@Free.fast199.hosting-ip.com:80?type
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#@FarazV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQWZuY0RCV3JTSE5teWw2RUw1ZElk@h110vpnus.outlinekeys.net:9483#https://t.me/v2rayNplus |🇺🇸
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?security=tls&type=ws&path=/&host=ziyong.boringdad.netlib.re&sni=ziyong.boringdad.netlib.re&fp=chrome&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_8 🧭 4.8MB/s
+trojan://90y2l3mu48d10uy3ibad@195.154.202.112:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅38@oneclickvpnkeys
