@@ -250,3 +250,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.137:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=github.com#kعضو شو قطع نشی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.22-0331
 vless://f52124d2-47d2-473b-b9ba-50772a829370@94.131.110.122:443/?type=ws&encryption=none&flow=&path=/rlsusiws&security=tls&sni=www.vk.com&allowInsecure=1#📡12@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCc2Q4TGV2RUp6b2Q3SlBseUpYdmRJ@45.95.232.236:4248?note=@freeOnlineVPN # 🔒 [By EbraSha]
