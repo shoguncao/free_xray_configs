@@ -311,3 +311,4 @@ vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-0350
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#%F0%9F%87%A7%F0%9F%87%ACBG-95.164.10.228-0336
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443/?type=ws&encryption=none&flow=&path=/aeyloows&security=tls&sni=ozon.ru&allowInsecure=1#🔶57@oneclickvpnkeys
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=ozon.ru&allowInsecure=1#🔶61@oneclickvpnkeys

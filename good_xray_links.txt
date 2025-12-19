@@ -241,3 +241,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0348
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#%F0%9F%87%B7%F0%9F%87%BARU-45.138.157.162-0340
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443/?type=ws&encryption=none&flow=&path=/aeyloows&security=tls&sni=ozon.ru&allowInsecure=1#🔶57@oneclickvpnkeys
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=ozon.ru&allowInsecure=1#🔶61@oneclickvpnkeys
