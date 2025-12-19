@@ -243,3 +243,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw=
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443/?type=ws&encryption=none&flow=&path=/aeyloows&security=tls&sni=ozon.ru&allowInsecure=1#🔶57@oneclickvpnkeys
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=ozon.ru&allowInsecure=1#🔶61@oneclickvpnkeys
 vless://1980c52e-f8b8-4ea6-92de-dd3ff65e658e@138.68.190.39:443?path=/evdvmqws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=wikiportal.ru&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇧]t.me/Raiv2mmr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-0263
