@@ -365,3 +365,4 @@ vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mod
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.28-4908
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.69-4906
+vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?path=%2Fvless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40SkyPro_Vpn
