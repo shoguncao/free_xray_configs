@@ -289,3 +289,4 @@ vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087/?type=grpc&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#%F0%9F%87%BF%F0%9F%87%A6ZA-156.38.168.58-0378
 trojan://oeEC2cXUJRlQaToKGL91iNr8A=ZM3@209.222.17.236:25134/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome#📡86@oneclickvpnkeys
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.231.130:443?encryption=none&security=none&type=grpc&mode=gun # 🔒 [By EbraSha]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVmMmMxZC1hMzE3LTQ1YTgtYjIzMC1lNDIwNTY2YTdmNjI=@69.30.251.122:51004#%F0%9F%87%BA%F0%9F%87%B8US-69.30.251.122-0395
