@@ -282,3 +282,4 @@ vless://b9cade73-6c60-437f-8e99-631cc3560ca7@64.227.47.224:443/?type=ws&encrypti
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889/?type=tcp&security=tls&sni=web.max.ru&allowInsecure=1#🎨32@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdXU2WEw2eDdOb2luckNuckNJbW1w@57.128.219.105:5223#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#%F0%9F%87%B8%F0%9F%87%ACSG-167.150.100.115-0437
+xray_link: trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&security=tls&allowInsecure=1#✅98@oneclickvpnkeys
