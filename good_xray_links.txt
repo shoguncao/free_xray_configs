@@ -287,3 +287,4 @@ vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?path=/arfdccws&s
 vless://84e747b3-1408-2bfc-e86b-343e386698b4@u14-unlim.standalonemsnew.cam:79?security=none&encryption=none&type=ws&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087/?type=grpc&encryption=none&flow=&security=tls&sni=api-maps.yandex.ru&allowInsecure=1#🧢28@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#%F0%9F%87%BF%F0%9F%87%A6ZA-156.38.168.58-0378
+trojan://oeEC2cXUJRlQaToKGL91iNr8A=ZM3@209.222.17.236:25134/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome#📡86@oneclickvpnkeys
