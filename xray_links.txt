@@ -427,3 +427,4 @@ vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?path=/arfdccws&s
 vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzE1MCB8IEJyYXppbCIsImFkZCI6Ijk1LjE2NC40Ljg4IiwicG9ydCI6IjgwIiwiaWQiOiJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://84e747b3-1408-2bfc-e86b-343e386698b4@u14-unlim.standalonemsnew.cam:79?security=none&encryption=none&type=ws&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @SkyPro_Vpn | 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#t.me/entryNET/config=1851922806167271
