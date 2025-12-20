@@ -429,3 +429,4 @@ vless://84e747b3-1408-2bfc-e86b-343e386698b4@u14-unlim.standalonemsnew.cam:79?se
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @SkyPro_Vpn | 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#t.me/entryNET/config=1851922806167271
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@MARAMBASHI 🇫🇷
+vless://e7425444-41e1-40ca-9390-d10a2429e6df@143.110.170.20:443/?type=ws&encryption=none&flow=&path=/doxwomws&security=tls&sni=m.vk.com&allowInsecure=1&fp=chrome#📡56@oneclickvpnkeys
