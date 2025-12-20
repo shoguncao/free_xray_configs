@@ -408,3 +408,4 @@ trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/
 trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 255 # 🔒 [By EbraSha]
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?encryption=none&security=tls&sni=azizoarjmand.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=/yhowcws#@Daily_Configs
 vless://5f42520a-f408-40e0-9f97-85b4621b0286@209.97.189.8:443/?type=ws&encryption=none&flow=&path=/wiwxewws&security=tls&sni=m.vk.com&allowInsecure=1#🎨11@oneclickvpnkeys
+vless://b9cade73-6c60-437f-8e99-631cc3560ca7@64.227.47.224:443/?type=ws&encryption=none&flow=&path=/evvixzws&security=tls&sni=ozon.ru&allowInsecure=1#🧢3@oneclickvpnkeys
