@@ -438,3 +438,4 @@ vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mod
 vless://5408b813-0a75-41de-9a4f-d5df4c10087b@tfl.gov.uk:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443/?type=ws&encryption=none&flow=&path=/iqkrmwws&security=tls&sni=yandex.com&allowInsecure=1#🔶32@oneclickvpnkeys
 trojan://oeEC2cXUJRlQaToKGL91iNr8A=ZM3@209.222.17.236:25134/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome#📡86@oneclickvpnkeys
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0249
