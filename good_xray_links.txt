@@ -285,3 +285,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg=
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&security=tls&allowInsecure=1#✅98@oneclickvpnkeys
 vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?path=/arfdccws&security=tls&encryption=none&insecure=1&host=Join---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStore&type=ws&allowInsecure=1#t.me/entryNET/config=1851958028033521
 vless://84e747b3-1408-2bfc-e86b-343e386698b4@u14-unlim.standalonemsnew.cam:79?security=none&encryption=none&type=ws&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087/?type=grpc&encryption=none&flow=&security=tls&sni=api-maps.yandex.ru&allowInsecure=1#🧢28@oneclickvpnkeys
