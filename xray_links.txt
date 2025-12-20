@@ -359,3 +359,4 @@ vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mod
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@95.173.218.203:990#%F0%9F%87%B8%F0%9F%87%ACSG-95.173.218.203-0350
 vless://efe47594-d246-4823-9bb8-d828160720ab@us2.candyfans.win:443/?type=ws&encryption=none&flow=&host=us2.candyfans.win&path=/ndhfws&security=tls&sni=us2.candyfans.win&allowInsecure=1&fp=chrome#🎨49@oneclickvpnkeys
 trojan://e2722c0fb503f8a592436c12bce0509a@112.118.116.8:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-112.118.116.8-0424
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-0428
