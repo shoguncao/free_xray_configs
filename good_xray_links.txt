@@ -277,3 +277,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:80
 vless://0bc2724b-1d00-41ad-8ef8-c23c7114596c@138.68.133.248:443/?type=ws&encryption=none&flow=&path=/pqncvhws&security=tls&sni=github.com&allowInsecure=1#🔶33@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-0402
 trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 757 # 🔒 [By EbraSha]
+vless://5f42520a-f408-40e0-9f97-85b4621b0286@209.97.189.8:443/?type=ws&encryption=none&flow=&path=/wiwxewws&security=tls&sni=m.vk.com&allowInsecure=1#🎨11@oneclickvpnkeys
