@@ -406,3 +406,4 @@ vless://0bc2724b-1d00-41ad-8ef8-c23c7114596c@138.68.133.248:443/?type=ws&encrypt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-0402
 trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 757 # 🔒 [By EbraSha]
 trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 255 # 🔒 [By EbraSha]
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?encryption=none&security=tls&sni=azizoarjmand.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=/yhowcws#@Daily_Configs
