@@ -274,3 +274,4 @@ vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=/rnugdhws&s
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.124.55:2890?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443/?type=tcp&encryption=none&flow=&security=tls&sni=api.avito.ru&allowInsecure=1#🧢14@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0271
+vless://0bc2724b-1d00-41ad-8ef8-c23c7114596c@138.68.133.248:443/?type=ws&encryption=none&flow=&path=/pqncvhws&security=tls&sni=github.com&allowInsecure=1#🔶33@oneclickvpnkeys
