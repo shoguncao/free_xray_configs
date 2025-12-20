@@ -411,3 +411,4 @@ vless://5f42520a-f408-40e0-9f97-85b4621b0286@209.97.189.8:443/?type=ws&encryptio
 vless://b9cade73-6c60-437f-8e99-631cc3560ca7@64.227.47.224:443/?type=ws&encryption=none&flow=&path=/evvixzws&security=tls&sni=ozon.ru&allowInsecure=1#🧢3@oneclickvpnkeys
 trojan://e2722c0fb503f8a592436c12bce0509a@202.181.103.235:2760?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 950 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#%F0%9F%87%B7%F0%9F%87%BARU-45.89.55.173-0327
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889/?type=tcp&security=tls&sni=web.max.ru&allowInsecure=1#🎨32@oneclickvpnkeys
