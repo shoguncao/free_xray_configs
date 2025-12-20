@@ -276,3 +276,4 @@ vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443/?type=tcp&encryp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0271
 vless://0bc2724b-1d00-41ad-8ef8-c23c7114596c@138.68.133.248:443/?type=ws&encryption=none&flow=&path=/pqncvhws&security=tls&sni=github.com&allowInsecure=1#🔶33@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-0402
+trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 757 # 🔒 [By EbraSha]
