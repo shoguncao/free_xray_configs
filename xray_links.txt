@@ -536,3 +536,4 @@ vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&path=/te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0300
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443/?type=ws&encryption=none&flow=&path=/pyzrgqws&security=tls&sni=api.avito.ru&allowInsecure=1#📡48@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#%F0%9F%87%A8%F0%9F%87%A6CA-45.154.204.7-0369
+vless://260b83b9-e8bb-434c-969b-9f3034cf8cb5@45.87.153.45:443?path=/fgoexdws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#[🇳🇱]t.me/ConfigsHub
