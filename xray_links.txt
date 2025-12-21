@@ -540,3 +540,4 @@ vless://260b83b9-e8bb-434c-969b-9f3034cf8cb5@45.87.153.45:443?path=/fgoexdws&sec
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.193.27:443?mode=gun&security=&encryption=none&type=grpc#🇩🇪@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v1.hiddendom.shop#Channel : @Mrsoulb 🏴🏳🏳
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.193.27:443?mode=gun&security=none&encryption=none&type=grpc#🇩🇪
+vless://7e0ac0af-282a-42c4-9b16-a7144f9769a8@46.101.82.35:443/?type=ws&encryption=none&flow=&path=/sbaakhws&security=tls&sni=io.ozone.ru&allowInsecure=1#🧢7@oneclickvpnkeys
