@@ -513,3 +513,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%2081.2KB%2Fs
 vless://784ac0b2-3837-4889-8ad6-b58259dd1d0f@94.131.118.18:443/?type=ws&encryption=none&flow=&path=/kmdznvws&security=tls&sni=ads.x5.ru&allowInsecure=1#📡62@oneclickvpnkeys
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&fp=chrome&type=ws&allowInsecure=0&sni=azizoarjmand.info#⚜️rt
+vless://a3772768-bb90-4bce-a86b-5ac6659e0f36@94.131.110.201:443?path=/owrqkcws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
