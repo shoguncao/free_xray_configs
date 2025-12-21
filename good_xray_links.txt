@@ -322,3 +322,4 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9
 vless://784ac0b2-3837-4889-8ad6-b58259dd1d0f@94.131.118.18:443/?type=ws&encryption=none&flow=&path=/kmdznvws&security=tls&sni=ads.x5.ru&allowInsecure=1#📡62@oneclickvpnkeys
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&fp=chrome&type=ws&allowInsecure=0&sni=azizoarjmand.info#⚜️rt
 vless://a3772768-bb90-4bce-a86b-5ac6659e0f36@94.131.110.201:443?path=/owrqkcws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
+vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#@MARAMBASHI 🇳🇱
