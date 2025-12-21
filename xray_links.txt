@@ -506,3 +506,4 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=/yhowcws&se
 trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 331 # 🔒 [By EbraSha]
 trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 278 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckhSbFZwTnNFT0xqNTVJT0FpRUx3@45.95.232.236:4248?note=@freeOnlineVPN # 🔒 [By EbraSha]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#%F0%9F%87%B3%F0%9F%87%B4NO-107.174.114.71-0426
