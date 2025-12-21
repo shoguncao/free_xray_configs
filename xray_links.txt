@@ -546,3 +546,4 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.155:443/?type=ws&encryp
 vless://9be6abdf-2fdc-4505-b149-562e3c7117b2@209.97.134.182:443/?type=ws&encryption=none&flow=&path=/jvsktjws&security=tls&sni=io.ozone.ru&allowInsecure=1#🧢6@oneclickvpnkeys
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha] ➠ @SkyPro_Vpn کانال تلگرام # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0298
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp&headerType=none # 🔒 [By EbraSha]
