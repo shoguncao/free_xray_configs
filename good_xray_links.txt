@@ -291,3 +291,4 @@ trojan://oeEC2cXUJRlQaToKGL91iNr8A=ZM3@209.222.17.236:25134/?type=tcp&security=t
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.231.130:443?encryption=none&security=none&type=grpc&mode=gun # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVmMmMxZC1hMzE3LTQ1YTgtYjIzMC1lNDIwNTY2YTdmNjI=@69.30.251.122:51004#%F0%9F%87%BA%F0%9F%87%B8US-69.30.251.122-0395
 vless://6a2f8236-d5e1-467d-8aca-9248ddb025c5@134.209.190.163:443/?type=ws&encryption=none&flow=&path=/sitjppws&security=tls&sni=www.vk.com&allowInsecure=1&fp=chrome#📡57@oneclickvpnkeys
+vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#t.me/entryNET/config=1851876238272469
