@@ -551,3 +551,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443/?type=tcp&encryption=none&flow=&security=tls&sni=api.avito.ru&allowInsecure=1#📡82@oneclickvpnkeys
 vless://b5605766-6abe-4f5f-85e1-0f6f447eae66@206.189.25.40:443/?type=ws&encryption=none&flow=&path=/hdwvmtws&security=tls&sni=ozon.ru&allowInsecure=1&fp=chrome#📡46@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#%3E%3E%40OutlineVpnOfficial%3A%3AKZ
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]&note=@freeOnlineVPN # 🔒 [By EbraSha]
