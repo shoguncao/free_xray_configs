@@ -305,3 +305,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucWNJZllIbHBNbjNqenFrTkRqS2FH@138.124.67.26:
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v1.hiddendom.shop#🇺🇸[Telegram:NetifyVPN]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#👉🆔 @v2ray_configs_pool 📡 🇷🇺RU_3 🧭 4.3MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.131-0288
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@167.160.90.178:990#@Broz_time+>+کانفیگ+رایگان
