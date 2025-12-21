@@ -527,3 +527,4 @@ trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&hea
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/ConfigsHub
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.57:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#t.me/entryNET/config=1851957398056758
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none # 🔒 [By EbraSha]
