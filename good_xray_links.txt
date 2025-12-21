@@ -301,3 +301,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgR0Loi7Hlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC
 vless://1701081e-c78c-44d7-97cd-f329284c90c8@64.227.33.161:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/idrutrws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#🇬🇧[Telegram:NetifyVPN]
 vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=/coxzfsws&security=tls&encryption=none&insecure=1&host=639010645287857140.accord-lmnxa.info&type=ws&allowInsecure=1&sni=www.vk.com#https://t.me/v2rayNplus |🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-4896
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucWNJZllIbHBNbjNqenFrTkRqS2FH@138.124.67.26:25572#%F0%9F%87%A8%F0%9F%87%ADCH-138.124.67.26-0941
