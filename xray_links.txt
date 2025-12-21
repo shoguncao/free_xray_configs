@@ -535,3 +535,4 @@ vless://26d47bd6-801a-42ca-8c50-b59b182a0a9a@209.38.168.122:21251?security=none&
 vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=barakanal3.global.ssl.fastly.net&type=xhttp#[🇩🇪]@configLINE(2)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0300
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443/?type=ws&encryption=none&flow=&path=/pyzrgqws&security=tls&sni=api.avito.ru&allowInsecure=1#📡48@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#%F0%9F%87%A8%F0%9F%87%A6CA-45.154.204.7-0369
