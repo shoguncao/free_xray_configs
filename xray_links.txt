@@ -464,3 +464,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240
 vless://1701081e-c78c-44d7-97cd-f329284c90c8@64.227.33.161:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/idrutrws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#🇬🇧[Telegram:NetifyVPN]
 vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=/coxzfsws&security=tls&encryption=none&insecure=1&host=639010645287857140.accord-lmnxa.info&type=ws&allowInsecure=1&sni=www.vk.com#https://t.me/v2rayNplus |🇫🇮
 vless://49aefaed-ad06-4ce9-ad25-b75b6b489b0c@www.speedtest.net:8880?path=/?ed=2048&security=none&encryption=none&host=mx.amin8263.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYnlwZnZxNnJhN2c0bjV5Q0NSOURvVmVHeWEyWFVVUw@185.82.73.212:8444#%3E%3E%40oneclickvpnkeys%3A%3AXX
