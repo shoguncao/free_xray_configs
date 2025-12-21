@@ -505,3 +505,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucWNJZllIbHBNbjNqenFrTkRqS2FH@138.124.67.26:
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=/yhowcws&security=tls&encryption=none&insecure=1&host=azizoarjmand.info&fp=chrome&type=ws&allowInsecure=1&sni=azizoarjmand.info#عضو شو قطع نشی
 trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 331 # 🔒 [By EbraSha]
 trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 278 # 🔒 [By EbraSha]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckhSbFZwTnNFT0xqNTVJT0FpRUx3@45.95.232.236:4248?note=@freeOnlineVPN # 🔒 [By EbraSha]
