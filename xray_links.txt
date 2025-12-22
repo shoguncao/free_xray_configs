@@ -620,3 +620,4 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?note=--Telegram--@NetifyVPN-- # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2RWaHREMTVmd3BRcXc3MEFOOEtydzZBeUg4T2FDUT09@51.195.203.247:8443#[🇬🇧]t.me/ConfigsHub
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=/jysxfpws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#https://t.me/v2rayNplus |🇬🇧
+vless://9efbff33-0318-4914-b78d-f47188b58875@141.98.169.104:443/?type=ws&encryption=none&flow=&path=/lwcnhxws&security=tls&sni=ads.x5.ru&allowInsecure=1#🎲55@oneclickvpnkeys
