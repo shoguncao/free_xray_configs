@@ -609,3 +609,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5
 vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?path=/sbqbfows&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#@Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990#%F0%9F%87%B5%F0%9F%87%B8telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0264
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🔷️34🌐
