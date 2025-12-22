@@ -579,3 +579,4 @@ trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889/?type=tcp&security=t
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-38.96.254.102-0379
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#📡79@oneclickvpnkeys
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#Channel : @Mrsoulb 🏴🏳
+vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN # 🔒 [By EbraSha]
