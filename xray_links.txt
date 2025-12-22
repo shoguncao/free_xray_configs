@@ -575,3 +575,4 @@ vless://82de262c-cd5e-402f-a709-f6979fc7c93e@www.speedtest.net:443?security=tls&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#%F0%9F%87%B2%F0%9F%87%A9MD-94.131.104.147-0307
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdXU2WEw2eDdOb2luckNuckNJbW1w@57.128.219.105:5223?note=--Telegram--@NetifyVPN--#🇵🇱[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.193-0295
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889/?type=tcp&security=tls&sni=ya.ru&allowInsecure=1#🎨37@oneclickvpnkeys
