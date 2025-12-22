@@ -569,3 +569,4 @@ vless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.de
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YjI0OTI4NmE3NGE5@212.224.125.154:57456#🇩🇪
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#r♡ya
 vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?path=/sbqbfows&security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&allowInsecure=1&sni=api.avito.ru#@MARAMBASHI 🇫🇷
+vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=/uefsanws&security=tls&sni=ads.x5.ru&allowInsecure=1&note=@freeOnlineVPN#🇫🇷 - FR - @freeOnlineVPN
