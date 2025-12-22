@@ -599,3 +599,4 @@ vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#%3E%3E%40configV2rayNG%3A%3AXX
 vless://3dd9b208-7bdc-4c28-b47f-021ab6c1b3a9@144.126.199.36:443/?type=ws&encryption=none&flow=&path=/ghxvybws&security=tls&sni=www.vk.com&allowInsecure=1&fp=chrome#📡23@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.236.32:2760?allowInsecure=1&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
