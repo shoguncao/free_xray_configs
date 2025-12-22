@@ -573,3 +573,4 @@ vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryp
 vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=barakanal3.global.ssl.fastly.net&type=xhttp#@V2ray_confing33
 vless://82de262c-cd5e-402f-a709-f6979fc7c93e@www.speedtest.net:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=fragrant-star-ebf2.daheg47484.workers.dev&sni=fragrant-star-ebf2.daheg47484.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#%F0%9F%87%B2%F0%9F%87%A9MD-94.131.104.147-0307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdXU2WEw2eDdOb2luckNuckNJbW1w@57.128.219.105:5223?note=--Telegram--@NetifyVPN--#🇵🇱[Telegram:NetifyVpn]
