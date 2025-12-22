@@ -585,3 +585,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:
 vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7AR-38.54.45.129-4938
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg==@185.156.110.92:443#%F0%9F%87%AD%F0%9F%87%B7HR-185.156.110.92-0315
+vless://9f0eae34-97c1-4c07-8a55-438379981334@104.25.35.114:8080/?type=ws&encryption=none&flow=&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&path=🔒 [By EbraSha] # 🔒 [By EbraSha]
