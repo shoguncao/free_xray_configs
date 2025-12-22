@@ -574,3 +574,4 @@ vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&path=/te
 vless://82de262c-cd5e-402f-a709-f6979fc7c93e@www.speedtest.net:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=fragrant-star-ebf2.daheg47484.workers.dev&sni=fragrant-star-ebf2.daheg47484.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#%F0%9F%87%B2%F0%9F%87%A9MD-94.131.104.147-0307
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdXU2WEw2eDdOb2luckNuckNJbW1w@57.128.219.105:5223?note=--Telegram--@NetifyVPN--#🇵🇱[Telegram:NetifyVpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.193-0295
