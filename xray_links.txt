@@ -594,3 +594,4 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.120.177:443/?type=ws&encrypt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443?mode=gun&security=none&encryption=none&type=grpc#@Maznet-46212-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.191-0287
