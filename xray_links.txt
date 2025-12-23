@@ -662,3 +662,4 @@ trojan://oeEC2cXUJRlQaToKGL91iNr8A=ZM3@66.135.4.81:25134/?type=tcp&security=tls&
 vless://b5605766-6abe-4f5f-85e1-0f6f447eae66@206.189.25.40:443/?type=ws&encryption=none&flow=&path=/hdwvmtws&security=tls&sni=ozon.ru&allowInsecure=1&fp=chrome#❄️36@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg==@5.182.37.87:443#%F0%9F%87%B7%F0%9F%87%BARU-5.182.37.87-0331
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.92-0290
+vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?security=tls&type=ws&path=/&host=asuka.boringdad.netlib.re&sni=asuka.boringdad.netlib.re&fp=chrome&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_9 🧭 5.3MB/s
