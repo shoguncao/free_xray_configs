@@ -659,3 +659,4 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=/?ed=2560&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#@Rayan_Config-82.38.31.191-@beepassvpn_bot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#All-@V2ray_Alpha--26
 trojan://oeEC2cXUJRlQaToKGL91iNr8A=ZM3@66.135.4.81:25134/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1&fp=chrome#📡74@oneclickvpnkeys
+vless://b5605766-6abe-4f5f-85e1-0f6f447eae66@206.189.25.40:443/?type=ws&encryption=none&flow=&path=/hdwvmtws&security=tls&sni=ozon.ru&allowInsecure=1&fp=chrome#❄️36@oneclickvpnkeys
