@@ -700,3 +700,4 @@ vless://960f750a-52c5-407c-8053-72a37e86e378@64.188.115.181:8880/?type=ws&encryp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0297
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-38.96.254.102-0330
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=/&security=&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?type=tcp&amp;encryption=none&amp;security=none # 🔒 [By EbraSha]
