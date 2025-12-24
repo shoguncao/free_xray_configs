@@ -669,3 +669,4 @@ vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?note=---Teleg
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.61.102:2087/?type=ws&encryption=none&flow=&host=jp-99k.pages.dev&path=/?ed=2560&security=tls&sni=jp-99k.pages.dev&allowInsecure=1&fp=chrome#⛄79@oneclickvpnkeys
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.61.102:2087/?type=ws&encryption=none&flow=&host=jp-99k.pages.dev&path=/?ed=2560&security=tls&sni=jp-99k.pages.dev&allowInsecure=1&fp=chrome#⛄79@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@95.173.218.203:990#%F0%9F%87%B8%F0%9F%87%ACSG-95.173.218.203-0307
