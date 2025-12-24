@@ -383,3 +383,4 @@ vless://telegram-id-Arfilter@www.speedtest.net:443?path=/telegram-ArV2ray,telegr
 vless://telegram-id-Arfilter@104.17.148.22:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=v.arfilter2.blog&fp=chrome&type=ws&sni=v.arfilter2.blog#@mehrosaboran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#%F0%9F%87%B9%F0%9F%87%ADTH-119.59.98.58-0353
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.69-0396
+vless://960f750a-52c5-407c-8053-72a37e86e378@64.188.115.181:8880/?type=ws&encryption=none&path=%2F%3Fed%3D2048&host=mx.amin8263.ir&security=none#tl%3A%40ERFIEF
