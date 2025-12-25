@@ -707,3 +707,4 @@ vless://8ded38b7-f0d8-4ce8-8615-9d31db206732@91.99.73.21:42952?security=none&amp
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@202.181.103.246:2760?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 705 # 🔒 [By EbraSha]
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇫🇮FI_6 🧭 4.0MB/s
