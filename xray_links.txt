@@ -705,3 +705,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#t.me/entryNET/config=1852345514041583
 vless://8ded38b7-f0d8-4ce8-8615-9d31db206732@91.99.73.21:42952?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp # 🔒 [By EbraSha]
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@202.181.103.246:2760?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 705 # 🔒 [By EbraSha]
