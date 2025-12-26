@@ -758,3 +758,4 @@ vless://TELEGRAM-CONFiGLiNE-103@ip.fastlynew.hosting-ip.com:80?mode=auto&path=/t
 vless://e7425444-41e1-40ca-9390-d10a2429e6df@143.110.170.20:443/?type=ws&encryption=none&flow=&path=/doxwomws&security=tls&sni=m.vk.com&allowInsecure=1#❄️45@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080?note=@freeOnlineVPN # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA==@178.23.190.238:443#%F0%9F%87%B2%F0%9F%87%A9MD-178.23.190.238-0313
+trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 976 # 🔒 [By EbraSha]
