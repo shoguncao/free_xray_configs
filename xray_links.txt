@@ -749,3 +749,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSEvpppnmuK8obWliZWk3Ny5jb20g57Gz6LSd6IqC
 vless://495c0dad-3268-4470-ac57-887c5089db0d@visa.com:443?security=tls&type=ws&path=/&host=asuka.boringdad.netlib.re&sni=asuka.boringdad.netlib.re&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=/yhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#[⚡] ➠ @V2ray_official
 vless://cedf84c5-d429-4e42-a977-18c597a3c51a@144.126.230.207:443/?type=ws&encryption=none&flow=&path=/bwcqggws&security=tls&sni=m.vk.com&allowInsecure=1#⛄24@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#[🇷🇺]t.me/ConfigsHub
