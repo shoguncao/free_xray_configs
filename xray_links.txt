@@ -739,3 +739,4 @@ vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=none&encr
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?path=/&security=tls&encryption=none&host=ziyong.boringdad.netlib.re&fp=chrome&type=ws&sni=ziyong.boringdad.netlib.re#@Broz_time+>+کانفیگ+رایگان
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.227.93:2760?allowInsecure=1&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 vless://5815b555-9907-45ae-94f2-e0c0af7860e3@134.209.31.137:443/?type=ws&encryption=none&flow=&path=/nyslkrws&security=tls&sni=www.vk.com&allowInsecure=1#❄️41@oneclickvpnkeys
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.136.130:2760?allowInsecure=1&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
