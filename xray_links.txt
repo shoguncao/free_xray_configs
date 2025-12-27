@@ -882,4 +882,5 @@ vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@77.42.77.66:40200?type=tcp&amp;encr
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?path=/&security=none&encryption=none&host=support.sslzoom.us&type=ws#All_5--@V2rayAlpha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw==@194.246.114.101:443#🇭🇰1@vpnserverrr
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6CA-144.217.164.29-0875
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
