@@ -29,3 +29,4 @@ vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=&encrypti
 vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg==@89.23.103.60:1234#[🇳🇱]t.me/ConfigsHub
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&type=tcp&alpn=h2,http/1.1&sni=v1bsy2b9q5-451516735-direct.bahame.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇱🇮LI_1 🧭 5.5MB/s
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.116.227:4054?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
