@@ -843,3 +843,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh27v1.carwashipdir.shop#%40Daily_Configs
 
+trojan://BxceQaOe@52.194.193.12:11945?allowInsecure=1&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
+
