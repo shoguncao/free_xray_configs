@@ -802,3 +802,4 @@ vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@45.131.4.11:80?security=none&type=w
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&security=tls&sni=m.vk.com&allowInsecure=1#❄️39@oneclickvpnkeys
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#[⚡] ➠ @V2ray_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg==@89.23.103.60:1234?note=@freeOnlineVPN # 🔒 [By EbraSha]
+vless://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:8080?encryption=none&security=none&type=ws&host=0105.f5s8fbc2.workers.dev&path=🔒 [By EbraSha] # 🔒 [By EbraSha]
