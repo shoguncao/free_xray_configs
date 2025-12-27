@@ -421,3 +421,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@45.131.4.11:80?security=none&type=ws&path=/HLW3JoJi6BADhOry16&host=icy-block-acf1.exhume-skirt-smirk.workers.dev&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇦🇿AZ_1 🧭 4.4MB/s
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#[⚡] ➠ @V2ray_official
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.5.253:990?note=--Telegram--@V2ray_official--#[🛸] ➠ @V2ray_official
