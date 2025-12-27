@@ -24,3 +24,4 @@ vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?securi
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp # 🔒 [By EbraSha]
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6SEs6OkhLOjpISzo6SEs6OkhLOjpISzo6SEs6OkhLIiwiYWRkIjoiOC4yMTguMTA1LjE5NiIsInBvcnQiOiI1Mjc1MiIsInR5cGUiOiJub25lIiwiaWQiOiI5MjViZGJmNS03MmJlLTQ0MzctYmViZi00NDFjNjEwODlmNmIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.148.135.31:990?note=--Telegram--@V2ray_official-- # 🔒 [By EbraSha]
