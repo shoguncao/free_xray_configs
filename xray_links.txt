@@ -816,3 +816,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.95:8880?mode=gun&security=none&encryption=none&type=grpc#@Broz_time > کانفیگ رایگان
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/esoznjws&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=m.vk.com#🇬🇧[Telegram:NetifyVPN]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL-213.109.147.242-0418
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#𝗝𝗼𝗶𝗻 ➠ @SkyPro_Vpn
