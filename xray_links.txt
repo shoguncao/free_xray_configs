@@ -1228,4 +1228,5 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@notion.site:2053?path=/?ed=2560&sec
 vless://3d294dca-21ba-407e-9815-d5812053f3a4@cf.090227.xyz:8443?encryption=none&security=tls&sni=temp-gcp4.608618.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=temp-gcp4.608618.xyz&path=%2Fclbuws#youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#%3E%3E%40ShadowsocksM%3A%3AXX
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#🟩90@oneclickvpnkeys
+trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&host=blueivy.qzz.io&path=/192.252.182.52:7602&security=tls&sni=blueivy.qzz.io&allowInsecure=1#🎧20@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
