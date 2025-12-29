@@ -1215,4 +1215,5 @@ vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.132.196:443?path=%2FJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET%3D%3Fed%3D2560&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=randomized&type=ws&sni=a.azadnet003.ddns-ip.net#%3E%3E%40v2rayngvpn%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.137-0322
 trojan://BxceQaOe@203.198.84.221:443?security=tls&sni=203.198.84.221&insecure=1&allowInsecure=1&type=tcp&headerType=none#HK_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg@de1-nv.jugploer.icu:2050#🇩🇪@vpnserverrr کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
