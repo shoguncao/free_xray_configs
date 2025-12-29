@@ -1223,4 +1223,5 @@ vless://3d294dca-21ba-407e-9815-d5812053f3a4@icook.tw:8443?encryption=none&secur
 vless://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443/?type=ws&encryption=none&flow=&host=seashell.qzz.io&path=%2F156.254.114.120%3A30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=/#🟩2@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#@V2rayNGVPN <= کانفیگ رایگان
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443/?type=ws&host=bisque.qzz.io&path=%2F66.135.4.222%3A8443&security=tls&sni=bisque.qzz.io#%3E%3E%40oneclickvpnkeys%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
