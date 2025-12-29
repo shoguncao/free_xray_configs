@@ -1111,4 +1111,5 @@ trojan://f36f4495b4b26cc2fe346cfa23e05b1b@202.181.103.235:2760?allowInsecure=1&s
 vless://1701081e-c78c-44d7-97cd-f329284c90c8@64.227.33.161:443/?type=ws&encryption=none&flow=&path=/idrutrws&security=tls&sni=ozon.ru&allowInsecure=1#❄️26@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0331
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#%40Filter_breaker
+vless://5408b813-0a75-41de-9a4f-d5df4c10087b@tfl.gov.uk:443?path=/ws&security=tls&encryption=none&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg#🇬🇧@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
