@@ -1334,4 +1334,5 @@ vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443/?type=ws&encrypt
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=/&security=none&encryption=none&host=cloudflare.com&type=ws#𝗝𝗼𝗶𝗻 ➠ @Daily_Configs 🫆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#BESTIIVPNBOT
 vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=/192.252.182.52:7602&security=tls&encryption=none&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#[🇨🇦]t.me/ConfigsHub
+vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=/192.252.182.52:7602&security=tls&encryption=none&insecure=0&host=blueivy.qzz.io&type=ws&allowInsecure=0&sni=blueivy.qzz.io#Channel : @Mrsoulb 🏴🏳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
