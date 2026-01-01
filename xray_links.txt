@@ -1395,4 +1395,5 @@ trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&hea
 vless://9254905b-18e2-4586-94d5-22839e96945b@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh30v1.hiddendom.shop#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v1.hiddendom.shop#[🛸] ➠ @V2ray_official
+vless://0c24b522-06b9-4767-f67e-59a34c5aeeb7@aqua-aria.company:2096/?type=ws&encryption=none&flow=&host=deguo2.shuiwudengli.dpdns.org&path=/&security=tls&sni=deguo2.shuiwudengli.dpdns.org#🌨️92@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
