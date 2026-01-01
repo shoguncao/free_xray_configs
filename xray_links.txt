@@ -1457,4 +1457,5 @@ trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=🔒 [By EbraSha] # 🔒 
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%208.9MB%2Fs
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.090227.xyz:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&path=🔒 [By EbraSha] b2n.ir/v2ray-configs | 636 # 🔒 [By EbraSha]
 trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 237 # 🔒 [By EbraSha]
+trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 755 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
