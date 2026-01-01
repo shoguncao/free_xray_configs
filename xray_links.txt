@@ -1468,4 +1468,5 @@ trojan://BxceQaOe@52.194.193.12:2762?allowInsecure=1&sni=🔒 [By EbraSha] b2n.i
 vmess://eyJ2IjoiMiIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCDwn5OhIPCfh7Pwn4exTkxfMTIg8J+nrSA1LjFNQi9zIiwiYWRkIjoiOTUuMjExLjQ3LjE5MSIsInBvcnQiOiI4MDgwIiwiaWQiOiJjNjJiOTA0YS1mZTg3LTQzY2ItYWVmYy1hMDI4ZTdmNWQ0ZGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIn0=
 trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 36 # 🔒 [By EbraSha]
 trojan://BxceQaOe@54.238.137.20:3127?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 128 # 🔒 [By EbraSha]
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
