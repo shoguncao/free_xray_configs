@@ -1528,4 +1528,5 @@ trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir
 vless://052df1a5-f53f-46dc-8aeb-7ed893310551@185.221.222.202:31779?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- # 🔒 [By EbraSha]
 trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 374 # 🔒 [By EbraSha]
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@157.180.82.171:2087?mode=gun&security=tls&encryption=none&authority=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&insecure=1&type=grpc&allowInsecure=1&sni=🔒 [By EbraSha] |ğŸ‡«ğŸ‡® # 🔒 [By EbraSha]
+trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 340 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
