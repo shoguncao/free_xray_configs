@@ -1540,4 +1540,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443?note=--Telegram--@V2ray_official-- # 🔒 [By EbraSha]
 vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@fi.sepshoping.de:8016?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#اینترنت ملی @Vpn_Sky
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-0404
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0462
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
