@@ -1534,4 +1534,5 @@ trojan://BxceQaOe@58.152.46.60:443?security=tls&sni=🔒 [By EbraSha]&allowInsec
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&host=Join---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStore&headerType=none&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha] SHO: @IRAN_V2RAY1âšœï¸� # 🔒 [By EbraSha]
 trojan://BxceQaOe@54.238.144.17:3194?allowInsecure=1&sni=🔒 [By EbraSha] trojan-JP # 🔒 [By EbraSha]
 trojan://BxceQaOe@54.238.144.17:3194?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 272 # 🔒 [By EbraSha]
+trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 219 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
