@@ -1537,4 +1537,5 @@ trojan://BxceQaOe@54.238.144.17:3194?allowInsecure=1&sni=🔒 [By EbraSha] b2n.i
 trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 219 # 🔒 [By EbraSha]
 trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 533 # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.158.171.66-4959
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443?note=--Telegram--@V2ray_official-- # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
