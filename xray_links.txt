@@ -1601,4 +1601,5 @@ vless://eb774544-18d2-4f43-ad4a-df77ee6726d4@198.186.130.113:6673?security=&encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#%3E%3E%40ShadowsocksM%3A%3ATR
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.218.3.39:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#🆔️ | @ConfigV2RayNG 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#%3E%3E%40FreakConfig%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
