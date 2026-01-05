@@ -1687,4 +1687,5 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2
 vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@www.perplexity.ai:80?path=%2F&security=&encryption=none&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&type=ws#%3E%3E%40configV2rayNG%3A%3ACA
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.39.87:8880?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=&encryption=none&host=sni.x86.de5.net&type=ws#@V2ray_confing33
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.244.15:443?flow=&type=grpc&mode=gun&serviceName=&security=none#Channel :@vmessorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.192-0237
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
