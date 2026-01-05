@@ -1662,4 +1662,5 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096/?type=ws&encryp
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@190.93.244.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.dns.army&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.dns.army#🎊77@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#⚡•|•@confegraigan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇱🇹•|•@confegraigan
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@172.67.193.88:443?security=tls&type=ws&path=/vless.hubp.de&host=hemmat.iranmap.workers.dev&alpn=http/1.1&sni=hemmat.iranmap.workers.dev&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
