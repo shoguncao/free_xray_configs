@@ -2091,4 +2091,5 @@ trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:4006?sni=www.nintendogam
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.68.250:1281?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%202.9MB%2Fs
 vless://b190ced8-ef31-4b9d-a7bf-cc095b386f8f@45.142.189.55:6786?encryption=none&type=tcp&headerType=http&path=/path&host=speedtest.net#[78123] - Telegram : @V2All
 vless://fd9eb8e1-6500-49f3-95b7-2d9c540dc84e@109.122.253.85:9000?security=&encryption=none&headerType=http&type=tcp#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
+vless://0507fbcd-b983-43a7-8e1d-2c561960ad4f@4bb6-b667-f88608d19fd5.664.qzz.io:443?encryption=none&security=tls&sni=4bB6-B667-F88608d19FD5.664.qzZ.io&alpn=http/1.1&type=ws&host=4bb6-B667-F88608d19fD5.664.QZz.io&path=/a0XhDU2Cxr9noOhn#[78115] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
