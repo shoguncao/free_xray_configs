@@ -2122,4 +2122,5 @@ vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=/
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security=none&encryption=none&type=grpc#@YamYamProxy
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#[78055] - Telegram : @V2All
 vless://d4795cd9-cd7b-4cea-edfb-20cdcca5837b@doprax.fxgoldensignals.com:50904?security=none&encryption=none&headerType=none&type=tcp#@YamYamProxy
+vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[78076] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
