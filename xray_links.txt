@@ -2110,4 +2110,5 @@ vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=/?ed=
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?security=tls&type=ws&path=/&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&fp=chrome#[🇦🇲]t.me/ConfigsHub
 vless://32ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#@YamYamProxy
 vless://IRAN@super.novanv.shop:8080?security=none&type=tcp&encryption=none#[🇮🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇷🇴]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
