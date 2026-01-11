@@ -2066,4 +2066,5 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&secu
 trojan://BxceQaOe@58.152.25.220:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 160 # 🔒 [By EbraSha]
 trojan://BxceQaOe@58.152.25.220:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 116 # 🔒 [By EbraSha]
 trojan://BxceQaOe@58.152.25.220:443?allowInsecure=1&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 14 # 🔒 [By EbraSha]
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.143:2086?path=🔒 [By EbraSha]&security=none&encryption=none&host=vless.hubp.de&type=ws&sni=🔒 [By EbraSha] 22 | Dey-21| MTSRVRS # 🔒 [By EbraSha]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
