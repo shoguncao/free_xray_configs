@@ -2143,4 +2143,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdCX3lvdXR1YmVA6LWE5rqQ5YiG5Lqr5biIIiwN
 trojan://BxceQaOe@58.152.46.60:443?security=tls&sni=t.me%252Fripaojiedian&insecure=1&allowInsecure=1&type=tcp&headerType=none#HK_youtube%40%E7%8B%AC%E7%AB%8B%E6%80%9D%E7%BB%B4
 trojan://BxceQaOe@58.152.46.60:443?security=tls&sni=t.me%2525252Fripaojiedian&insecure=1&allowInsecure=1&type=tcp&headerType=none#HK_youtube%40%E7%8B%AC%E7%AB%8B%E6%80%9D%E7%BB%B4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUUdhYWZhM0l4OUJ3cjN2SGZibWFL@62.133.60.43:36456#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%20170.5KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
