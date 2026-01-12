@@ -2192,4 +2192,5 @@ vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#%40Geek_Spot
 vless://e28d3c04-3c60-4315-a46f-2ff41d21e66e@25.129.199.12:2052?mode=auto&path=/&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#t.me/entryNET/config=1853703084600290
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWHVSR3pYc1BNU1R4dU5MZFBHQUxE@62.133.60.43:36456#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://BxceQaOe@54.250.239.2:3194?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
