@@ -2204,4 +2204,5 @@ vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@prosshprossh.ajorpare.ir:8880?path=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://telegram-turboo-server@146.75.55.82:80?security=none&type=ws&path=/ed=2056&host=jone-turboo-server.com&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_15 🧭 5.2MB/s
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9%2098.3KB%2Fs
+vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@prosshprossh.ajorpare.ir:8880?encryption=none&security=none&type=ws&host=servepross.ajorpare.ir#%40Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
