@@ -2255,4 +2255,5 @@ vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?path=%2F&se
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@172.67.73.246:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&fp=chrome#%40Geek_Spot
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%20218.0KB%2Fs
 vless://f0fb284f-df60-4eb4-9736-a156a3777262@185.231.113.66:39585?security=none&type=tcp#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_6%20%F0%9F%A7%AD%209.5MB%2Fs#کانفیگ_پرسرعت
+vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#%40Ken0Tim%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
