@@ -2252,4 +2252,5 @@ vless://e35637dc-affa-47b5-bb28-ab0788bee676@Cr7.zx-shop.ir:8880?type=xhttp&encr
 vless://bfc1104e-5616-4f0f-8112-324d1ddd149d@subscription.lormarb.ir:53762?security=none&type=ws&path=/&host=subscription.lormarb.ir&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇪🇸ES_1 🧭 4.1MB/s
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%3E%3E%40FreakConfig%3A%3AUS
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?path=%2F&security=tls&encryption=none&insecure=0&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&allowInsecure=0&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo#BESTIIVPNBOT
+trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@172.67.73.246:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&fp=chrome#%40Geek_Spot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
