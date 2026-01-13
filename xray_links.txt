@@ -2253,4 +2253,5 @@ vless://bfc1104e-5616-4f0f-8112-324d1ddd149d@subscription.lormarb.ir:53762?secur
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%3E%3E%40FreakConfig%3A%3AUS
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?path=%2F&security=tls&encryption=none&insecure=0&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&allowInsecure=0&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo#BESTIIVPNBOT
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@172.67.73.246:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&fp=chrome#%40Geek_Spot
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%20218.0KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
