@@ -2289,4 +2289,5 @@ vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?path=%2F&sec
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.panelha.sbs:80?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=&encryption=none&host=sudo2014.ir&type=xhttp#[🚀] ➠ @V2ray_official
 vless://27a351f2-63c3-4ca6-8e11-034bccc64549@v22.vipshopkar8.shop:8412?security=&encryption=none&headerType=&type=tcp#BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%2029.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
