@@ -2310,4 +2310,5 @@ vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.47:8880/?type=ws&encryp
 vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?mode=auto&path=/&security=none&encryption=none&type=xhttp#فقط مصرف ضروری | YamYamProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.183-0296
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA==@23.95.75.146:443#%F0%9F%87%BA%F0%9F%87%B8US-23.95.75.146-0405
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0928
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
