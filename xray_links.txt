@@ -2343,4 +2343,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157
 trojan://4843e94d205f3893f588255a591abe94@160.16.105.192:4006?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%208.5MB%2Fs
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.183:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e258977b-e413-4718-a3af-02d75492c349@45.82.176.46:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://4843e94d205f3893f588255a591abe94@160.16.130.21:1933?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%207.5MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
