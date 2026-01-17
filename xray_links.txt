@@ -2355,4 +2355,5 @@ trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro003.instconn.com:443?sni=log
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@store.ubi.com:443/?type=ws&host=_acme-challenge.2go.cloudns.be&path=%2F&security=tls&sni=_acme-challenge.2go.cloudns.be&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?security=&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#[82524] - Telegram : @V2All
 vless://f56f35a9-1123-4fe9-b1db-be57fb9f95d4@fr.broadcasp.info:42542?security=none&type=tcp&headerType=http&path=/&host=excoino.com#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0362
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
