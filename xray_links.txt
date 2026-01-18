@@ -2405,4 +2405,5 @@ trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:4006?security=tls&sni=ww
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-0356
 vless://00000000-0000-0000-0000-000000000000@104.16.142.237:2095?path=/&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#[82742] - Telegram : @V2All
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.0.64:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn1.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.208-0274
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
