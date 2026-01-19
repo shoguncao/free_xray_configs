@@ -2453,4 +2453,5 @@ vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086/?type=ws&encryptio
 vless://e4027120-8fa4-4cb2-8ca3-a5a6cbe38c2b@check-host.net:8080/?type=ws&encryption=none&flow=&host=rayOtanOtrmNnOtenOtl.terminal-kaneop-none.SARBAZIT.COM&path=%2Ftelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%3Fed%3D80#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e258977b-e413-4718-a3af-02d75492c349@188.253.27.190:443/?type=ws&encryption=none&flow=&host=ww3.xaniujp1.qzz.io&path=%2F&security=tls&sni=ww3.xaniujp1.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.193-0427
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.177-0285
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
