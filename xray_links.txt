@@ -2532,4 +2532,5 @@ vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?encryption=none&se
 vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443/?type=ws&encryption=none&flow=&path=/sbqbfows&security=tls&sni=api.avito.ru&allowInsecure=1#🔶67@oneclickvpnkeys
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@ficdn16.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn16.suio.me&allowInsecure=1#🛫50@oneclickvpnkeys
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.39.225:8880?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=&encryption=none&host=sni.x86.de5.net&type=ws#BESTIIVPNBOT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.166-0435
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
