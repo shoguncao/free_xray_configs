@@ -2583,4 +2583,5 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?encryption=none&sec
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?flow=&type=ws&host=picassoo.info&path=/aymdlws&security=tls&sni=picassoo.info&fp=chrome&allowInsecure=0&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443/?type=ws&host=_acme-challenge.2go.cloudns.be&path=%2F&security=tls&sni=_acme-challenge.2go.cloudns.be#%F0%9F%9F%A936%40oneclickvpnkeys
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@27.50.49.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.dns.army&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.dns.army#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
