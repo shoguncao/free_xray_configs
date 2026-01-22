@@ -2634,4 +2634,5 @@ vless://db162b74-0da8-4c69-8b17-2d89defabc24@root.api-music-fa.com:2053?path=/J5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#⚙️63@oneclickvpnkeys
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3236 | Iceland
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://5f42520a-f408-40e0-9f97-85b4621b0286@209.97.189.8:443/?type=ws&encryption=none&flow=&path=/wiwxewws&security=tls&sni=m.vk.com&allowInsecure=1&fp=chrome#❄️18@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
