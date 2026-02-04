@@ -2896,4 +2896,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#@filembad
 vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=1&host=picassoo.info&type=ws&allowInsecure=1&sni=picassoo.info#@Daily_Configs
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@66.81.247.155:443?allowInsecure=0&alpn=http/1.1&encryption=none&host=a.azadnet003.ddns-ip.net&insecure=0&path=/Telegram@V2rayAlpha/?ed=2560&security=tls&sni=a.azadnet003.ddns-ip.net&type=ws#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTc0NTczYmViM2YzMGQ0@57.128.30.201:11201#t.me/entryNET/config=1853457909298967
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.132.196:443?path=/telegram-@Selinc=?ed=2560&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=chrome&type=ws&sni=a.azadnet003.ddns-ip.net#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
