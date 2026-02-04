@@ -2871,4 +2871,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:
 trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.39.240:5076?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.39.240-0422
 vless://1a0d2a22-7304-462c-9bab-bf2ad1cd24c2@yd.3.hhhhh.eu.org:443/?type=ws&encryption=none&flow=&host=sp1.hhhhh.eu.org&path=%2F%3Fproxyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=sp1.hhhhh.eu.org&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?allowInsecure=0&alpn=h2,http/1.1&encryption=none&fp=chrome&host=gozar1.i2fed.com&insecure=0&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&sni=gozar1.i2fed.com&type=ws#@v2rays_ha 6284
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.197-0286
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
