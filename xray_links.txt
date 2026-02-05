@@ -3019,4 +3019,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk
 vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?allowInsecure=0&alpn=h2,http/1.1&encryption=none&fp=chrome&host=gozar1.i2fed.com&insecure=0&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&sni=gozar1.i2fed.com&type=ws#@v2rays_ha 6221
 vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80?path=%2F&security=none&encryption=none&host=mihan-germar2.global.ssl.fastly.net&type=ws#%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D8%A7%D8%B4%20%E2%9A%A1%20%7C%20%40Vpn_Sky%20%F0%9F%9A%80`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0261
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#🇩🇪@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
