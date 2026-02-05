@@ -2948,4 +2948,5 @@ vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@130.250.137.171:443?path=/?ed=2560&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.183-0333
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=/--@V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#🇹🇷@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#[93023] - Telegram : @V2All
+vless://c249ca6f-1bde-479b-af96-da0e948a3800@zzula.ir:443?path=%2Fadmin&security=tls&encryption=none&insecure=0&host=zitel.digikala-aparat-zula.com&type=ws&allowInsecure=0&sni=zitel.digikala-aparat-zula.com#⚡Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
