@@ -3304,4 +3304,5 @@ vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/asset
 vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80/?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#@v2rays_ha 7222
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%3E%3E%40OutlineVpnOfficial%3A%3AXX
 trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0275
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?security=&fp=chrome&type=grpc&encryption=none#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
