@@ -3314,4 +3314,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.179.241.93:443?path=/?ed=2560&Te
 vless://ee603510-52e4-29f9-00b0-9a051ad424fb@65.109.179.221:26261?security=&encryption=none&headerType=&type=tcp#Config 1 - @lebertad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.45.66.11:443?path=/?ed=2560&Telegram🎖@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🎖@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#%F0%9F%87%B5%F0%9F%87%B1PL-89.223.93.176-0349
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
