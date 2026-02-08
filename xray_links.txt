@@ -3323,4 +3323,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiWzk2MTI2XSAtIFRlbGVncmFtIDogQFYyQWxsIiwgImFkZCI6
 vless://685644a1-27c1-4e0d-8391-b8310a4f7c8b@108.162.198.154:443?path=/?ed=443&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=germany.pahlevancompani.com&fp=chrome&type=ws&allowInsecure=1&sni=germany.pahlevancompani.com#@KIA_NET  چنل❤️‍🔥
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&host=adspeedx23.global.ssl.fastly.net&path=/?ed%3D1049#🇫🇮[openproxylist.com]
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=/&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#● @ConfigV2RayNG
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#🆔@vmesskhodam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
