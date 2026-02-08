@@ -3363,4 +3363,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#WiFi-@V2rayAlpha-36
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@185.18.250.252:443?encryption=none&security=tls&sni=market.chepschasb.shop&alpn=http/1.1&fp=chrome&type=ws&host=market.chepschasb.shop&path=/130.162.193.183:15401#@HedwigV2ray
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@AliXTso
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
