@@ -3508,4 +3508,5 @@ vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?path=/&security=
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#جوین شید قط نشید @ConfigV2RayNG
 vless://22e7f0d3-8d3b-40c7-a1c5-8a912f6a16b3@8.6.112.0:443?security=tls&type=ws&path=%2Fmemo&host=cdn.55994421.xyz&sni=cdn.55994421.xyz&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%202.5MB%2Fs
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&sni=vbox.ping-box.com#🇮🇷 IR 40 @Outline_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#%E6%9C%AA%E7%9F%A519%2010.7MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
