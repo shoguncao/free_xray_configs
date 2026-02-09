@@ -3434,4 +3434,5 @@ vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@172.66.128.70:80?path=/?ed&security
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@vpnbaz 🎩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#[95489] - Telegram : @V2All
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.148.104.158:2096/?type=ws&encryption=none&flow=&host=sni.111000.de5.net&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.de5.net#🚩3@oneclickvpnkeys
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&security=tls&insecure=0&host=bisque.qzz.io&type=ws&allowInsecure=0&sni=bisque.qzz.io#All---8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
