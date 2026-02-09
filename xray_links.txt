@@ -3515,4 +3515,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#%F0%9F%87%A6%F0%9F%87%AAAE-95.174.68.33-0346
 trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.65.107:3076?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 vless://12345678-1234-1234-1234-123456789123@162.120.94.61:2096?security=tls&type=ws&path=%2Fsnippets&host=vless.hubp.de&sni=vless.hubp.de&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%BA%F0%9F%87%B8US_2%20%F0%9F%A7%AD%204.2MB%2Fs`
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.39.30:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
