@@ -3529,4 +3529,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTkiLCJhZGQiOiIyMC4xOTMuMTUzLjE5IiwicG9ydCI6
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@ficdn2.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://e343471a-aad3-40da-9dea-72cc8c7dce5f@unamecf.xn--ghqu5fm27b67w.com:443?path=/pq/jp1&security=tls&encryption=none&insecure=1&host=ujp1.xn--ghqu5fm27b67w.com&fp=chrome&type=ws&allowInsecure=1&sni=ujp1.xn--ghqu5fm27b67w.com#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.22-0349
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#🇰🇼08 @shadowsockskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
