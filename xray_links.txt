@@ -3632,4 +3632,5 @@ vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/eyJqdW5
 vless://1e823993-86ac-3ead-89b5-227e73825fdb@vip1.kaixincloud.top:443?path=/db1024faebdb62e0&security=tls&encryption=none&host=dabaif0.webn.cc&fp=chrome&type=ws&sni=dabaif0.webn.cc#@YamYamProxy-03
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=/156.244.1.250=8443&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#ConfigV2RayNG
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-806%20%7C%20free-nodes
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.hiddendom.shop#🇺🇸@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
