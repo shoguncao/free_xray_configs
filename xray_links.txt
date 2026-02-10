@@ -3674,4 +3674,5 @@ vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@chatgpt.com:443?path=%2F%3Fed%3D256
 vless://9e685fe3-e0f9-482d-939c-200a3f89b363@cf.narton.ir:8443?path=/@V2rayBaaz&security=tls&alpn=http/1.1&encryption=none&host=vyznthvt7f5fr.zjde5.de5.net&fp=chrome&type=ws&sni=vyznthvt7f5fr.zjde5.de5.net#Config 2 - @lebertad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱 @FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#%F0%9F%87%A8%F0%9F%87%A6CA-193.203.203.66-0253
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&type=grpc&mode=gun&security=none#%E2%9A%A1Telegram=@zeshtobadha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
