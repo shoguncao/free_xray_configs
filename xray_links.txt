@@ -3816,4 +3816,5 @@ vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@104.17.165.123:8443?path=/?ed=2560&
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@meliproxyy
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc@media.mothyleela.cfd:40521#@icv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.174-4749
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
