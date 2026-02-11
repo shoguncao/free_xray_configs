@@ -3894,4 +3894,5 @@ vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@www.visa.com.sg:2052?path=%2F%3Fed%
 vless://b0191eca-a681-44a3-ceab-70560d5ca1a8@sh.shahab--web.com:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=sh.shahab--web.com&fp=chrome&type=ws&sni=sh.shahab--web.com#⚡Telegram = @SOSkeyNET
 vless://a47a0e32-0520-4429-98aa-44d819ff7f75@ip.hamrahto.com:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=hm3.mutee.com.tr&type=ws#[89902] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTc0NTczYmViM2YzMGQ0@57.128.30.201:11201#%3E%3E%40outline_vpn%3A%3AFR
+vless://TELEGRAM-CONFiGLiNE-93@ip.fastlynew.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#[🇩🇪]@configLINE(2)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
