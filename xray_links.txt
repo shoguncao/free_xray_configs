@@ -3726,4 +3726,5 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.132.38:5076?security=tls&sni=ww
 vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?path=/&security=&encryption=none&type=ws#@Hddify
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@vpnbaz 🫜
 vless://a9171965-cda0-461f-a6f2-a57069c875a3@93k.shirim.top:4881?encryption=none&type=tcp&headerType=none&security=none#%3E%3E%40v2nodes%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.194-0264
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
