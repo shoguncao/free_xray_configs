@@ -4002,4 +4002,5 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0446
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@chatgpt.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#https://t.me/v2rayng_fars
+trojan://ba91a84a-6b81-4aef-be19-a76f64a790d1@green2.cdntencentmusic.com:35501?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
