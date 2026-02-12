@@ -4031,4 +4031,5 @@ vless://071435dc-6ab9-4502-8441-ed4a4b609092@104.26.7.205:443?mode=gun&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#@icv2ray
 vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@fa.faraz360.ir:9829?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%3E%3E%40DailyV2RY%3A%3ADE
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@V2rayBaaz
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIDE2Mi43TUIvcyIsImFkZCI6IjE3Mi4yMzQuMTMyLjIzMiIsInBvcnQiOiIxMDAwMSIsImlkIjoiYTZiOTljMDUtOGUwYS00ZjdlLWJmN2ItZTRiOWZlYmI5NTg5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
