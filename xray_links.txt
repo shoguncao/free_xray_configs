@@ -4070,4 +4070,5 @@ vless://83f03646-fb28-44cc-9d2c-8853f6c09285@ip.notomarosww.com:8443?path=/Tel-@
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.22-0442
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+trojan://d820cqz57a9u@104.17.165.123:8443?security=tls&sni=ifhkxolp66pd30wmrcwaokfz.zjde5.de5.net&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=ifhkxolp66pd30wmrcwaokfz.zjde5.de5.net&path=%2F%3Fed%3D2560#[T.me/SHADOW_CONFBOT]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
