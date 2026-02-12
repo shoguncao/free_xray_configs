@@ -4255,4 +4255,5 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=/45.76.
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.124.55:2890?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A543%203.2MB%2Fs
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=&encryption=none&type=grpc#shankamil
 vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443/?type=ws&encryption=none&flow=&host=us1.candyfans.win&path=/cgunws&security=tls&sni=us1.candyfans.win&allowInsecure=1#🔶39@oneclickvpnkeys
+vless://c0b40379-7211-4cee-aded-ee1e1dd30528@meli-vip.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#Config 5 - @lebertad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
