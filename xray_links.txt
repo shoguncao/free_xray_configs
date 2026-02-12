@@ -4226,4 +4226,5 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.132.38:5076?allowInsecure=1&hea
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#@v2rays_ha 5187
 vless://2e27ac27-c360-489a-86ea-8b9659de6763@cdnjs.com:443?path=%2Fjztpmbws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=639057258094935446.corolla-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639057258094935446.corolla-perma.info#%3E%3E%40vmess_iran%3A%3AHU
 vless://f82711cd-a620-4a59-9e8f-bdfc336c0ea9@103.252.90.120:2053?path=/chatgpt&security=tls&alpn=h2,http/1.1&encryption=none&host=chatgpt.drinfoo.org&fp=chrome&type=ws&sni=chatgpt.drinfoo.org#⚡Telegram = @SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw==@194.246.114.101:443#%F0%9F%87%B2%F0%9F%87%A9MD-194.246.114.101-0377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
