@@ -4175,4 +4175,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2R
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0448
 vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?path=/Telegram@V2rayAlpha/?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net&type=ws&allowInsecure=0&sni=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net#@v2rays_ha 5826
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-0270
+vless://517c776e-afbf-4749-9643-73c3ea26b905@fox1.wizard2shop.org:2083?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=xiz10.wizard2shop.org&fp=chrome&type=ws&allowInsecure=0&sni=xiz10.wizard2shop.org#『 🌟https://t.me/V2rayBaaz 』
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
