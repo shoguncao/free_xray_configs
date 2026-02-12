@@ -4258,4 +4258,5 @@ vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443/?type=ws&encr
 vless://c0b40379-7211-4cee-aded-ee1e1dd30528@meli-vip.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#Config 5 - @lebertad
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#@filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇬🇧 @Spartan_YT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTNmY2MzYWViMTZlYmEz@15.204.74.40:13021#WiFi-@V2rayAlpha-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
