@@ -3998,4 +3998,5 @@ ss://YWVzLTEyOC1nY206RjlmQmlDTlJnZUE4eUtCZHNQVklrc3NMSnpUUWZibjA@173.225.106.117
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0319
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#@V2rayNGVPN <= کانفیگ رایگان
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v3.carwashipdir.shop&alpn=h2&type=grpc&mode=gun#[91504] - Telegram : @V2All
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc#%40V2ray_confiig`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
