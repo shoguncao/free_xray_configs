@@ -4357,4 +4357,5 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@cf.narton.ir:8443?path=%2F---%40MiT
 vless://f0693080-e004-4baf-a1e9-258025a134a7@8.6.112.0:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rb11.fasst11.shop&fp=chrome&type=ws&sni=rb11.fasst11.shop#%F0%9F%86%94Telegram%20%3A%20%40planB_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#⚡Telegram = @SOSkeyNET
 vless://215b0c30-3ca5-4f97-d685-39e95a27d414@top10.donkeyarv.com:10080?encryption=none&security=none&type=tcp&headerType=http#HedwigV2ray
+vless://0d25085e-b6c4-410a-b206-4dde607cff6c@V2ngfast.heloisfood.ir:2718?security=none&type=grpc&mode=gun&serviceName=@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&encryption=none#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
