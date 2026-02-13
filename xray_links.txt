@@ -4479,4 +4479,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ0HliqDmi7/lpKcobWliZWk3Ny5jb20g57Gz6LSd
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.144.208:3076?sni=www.nintendogames.net#🚀99@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#@v2rays_ha 5238
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096/?security=tls&type=ws&path=/?ed=2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#@v2rays_ha 7791
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443/?type=ws&encryption=none&flow=&host=picassoo.info&path=%2Faymdlws&security=tls&sni=picassoo.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
