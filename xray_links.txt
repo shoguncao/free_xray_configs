@@ -4323,4 +4323,5 @@ vless://6d288402-6ef9-4092-9d52-c528690fb693@chatgpt.com:2053?flow=&type=ws&host
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0271
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#🧿 Tel : @ProxyVPN11 ⟵
 vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?path=/1ab3537d&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=serveruwofl.samanidempire.org&fp=chrome&type=ws&allowInsecure=1#⚡Telegram = @SOSkeyNET
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#@meliproxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
