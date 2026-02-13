@@ -4319,4 +4319,5 @@ vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmZlZTEzODhlOTYwNTM3@51.89.117.154:11201#%40zeshtobad
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@filembad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.178.224:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram@AliXTso&sni=sni.111000.indevs.in&fp=chrome#lyriffy
+vless://6d288402-6ef9-4092-9d52-c528690fb693@chatgpt.com:2053?flow=&type=ws&host=pmlmyazd-6s6.pages.dev&path=/ifzr5xrgltxbyevl/mtixlju0ljmwlje1oq==?ed=2560&security=tls&sni=pmlmyazd-6s6.pages.dev&fp=chrome&allowInsecure=0#@TeLPJ+یک+دقیقه+زمان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
