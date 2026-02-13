@@ -4333,4 +4333,5 @@ vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?path=/35.78.229.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#%F0%9F%87%B7%F0%9F%87%BARU-45.89.55.173-0341
 vless://6abc75eb-b58b-4e28-af59-20f41bdf7a2a@104.18.32.47:443?path=/restart&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=last.ownlink.pro&fp=chrome&type=ws&allowInsecure=0&sni=last.ownlink.pro#@V2rayAlpha--10
 vless://3560c119-e298-43c1-b087-e77a4b3d7bf9@94k.bestusers.ir:4881?encryption=none&packetEncoding=xudp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:268.89ms
+vless://42a33e55-64ef-46c2-84c7-334728f3bfd3@151.101.0.223:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=ipio.global.ssl.fastly.net&type=xhttp#@ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
