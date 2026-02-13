@@ -4338,4 +4338,5 @@ trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro000.instconn.com:443?securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSmFWZXF5c3N3V29qTkZtSjBQeE0z@81.19.141.45:443#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#@v2rays_ha 5146
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0391
+vless://087ddd93-b412-460c-a803-d796312d0ad0@www.speedtest.net:2095?path=/&security=&encryption=none&host=uk9.hope-pls.ir&type=ws#t.me/entryNET/config=1852912755456700
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
