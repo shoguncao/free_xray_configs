@@ -4715,4 +4715,5 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?security=tls&encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#https://t.me/YamYamProxy
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%20%40v2rayopen%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#@v2rays_ha 5160
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=/?ed=2560&Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#mahsa NG { کانفیگ های عمومی }
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
