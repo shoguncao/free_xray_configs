@@ -4658,4 +4658,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202
 vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.speedtest.net:2096?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=digikalaa.dpdns.org&fp=chrome&type=ws&allowInsecure=1&sni=DiGIkALaA.dpdns.ORG#🇷🇺@FreakConfig
 vless://7f47ff7f-c3dd-410e-bf14-73fe022f733a@SpEeDtEsT.NeT:80?type=xhttp&encryption=none&path=/HajAmirVip?=2048&host=fasthetz.global.ssl.fastly.net&mode=auto&security=none#vmesskhodam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#%40Filter_breaker
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@zzula.ir:443?path=/?ed=2560&&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
