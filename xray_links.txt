@@ -4842,4 +4842,5 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=/?ed=2560&
 vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇫🇷[openproxylist.com] vless-FR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#%3E%3E%40shadowproxy66%3A%3ACA
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@chatgpt.com:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&alpn=http/1.1&allowInsecure=1#🫧36@oneclickvpnkeys
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#shankamil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
