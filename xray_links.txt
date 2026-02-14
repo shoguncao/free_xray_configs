@@ -4910,4 +4910,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:
 vless://2426cb8b-9476-419f-b279-b36e2d572ee1@104.18.32.47:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=panel.redmak1.online&fp=chrome&type=ws&allowInsecure=0&sni=panel.redmak1.online#VPNBaz
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0378
 vless://e61e8f79-d16e-44ba-936b-63b227d7d625@8.6.112.0:443?path=/safeway&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=new.3315888.xyz&fp=chrome&type=ws&allowInsecure=0&sni=new.3315888.xyz#✅سرورها بیشتردرکانال:prrofile_purple@✅
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238#@v2rays_ha 8272
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
