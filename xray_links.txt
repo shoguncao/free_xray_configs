@@ -4796,4 +4796,5 @@ vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443?path=/?ed=512&sec
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@kzcdn2.suio.me:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=kzcdn2.suio.me#N/A-@V2rayAlpha-15
 vless://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?encryption=none&security=tls&sni=de2c.buzzon.shop&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=de2c.buzzon.shop&path=/aRzHt7ShW5NThds106#@filembad
 vless://e25bd23b-22f0-4026-8883-59486d1761c5@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#@sunflowerplato🌻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Z29Pc3l5QnYyWW40dzBoU3Fqc05xZjVJR2JJRVRaNg==@5.253.41.46:443#%F0%9F%87%A8%F0%9F%87%BECY-5.253.41.46-0642
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
