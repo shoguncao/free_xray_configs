@@ -5096,4 +5096,5 @@ vless://vpn_connects@vpconnect1.pishipishi.pro:80?path=/vpn_connects&security=no
 vless://33a57acf-163f-4cdd-8b23-cc52a58f2362@xhero.kharabetam.de:2053?path=/IfUknowThenUKnow&security=tls&encryption=none&host=mrx.xher0.de&fp=chrome&type=ws&sni=mrx.xher0.de#r♡ya@V2rayBaaz◇⃟💜
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-2025%20%7C%20free-nodes
 trojan://c91410bb-b777-4daf-988b-d5445d143e6b@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724#@V2rayBaaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
