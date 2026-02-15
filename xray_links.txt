@@ -5039,4 +5039,5 @@ vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=/?ed&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.141-0254
 vmess://eyJ2IjpudWxsLCJwcyI6IkBWMnJheXNDb2xsZWN0b3Ig8J+Rs/CflKsiLCJhZGQiOiJiYmJubWtsLjIwMzAucHAudWEiLCJwb3J0Ijo0NDMsImlkIjoiNWNjY2I0ZGEtOGFlZS00YjAxLWJlODQtMjA1NjI2NWU1MmRjIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiYmJibm1rbC4yMDMwLnBwLnVhIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9Bd1VKeUdoOVltNnZWemczNUE2dWV5eVpuV2QiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6bnVsbH0=
 vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80?security=none&allowInsecure=0&encryption=none&type=ws&host=yalandonya.global.ssl.fastly.net&path=/site#@sogoandfuckyourlove🧨
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#%40Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
