@@ -5218,4 +5218,5 @@ vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.96.3:443?encryption=none&security=tls&sni=delta090.qzz.io&fp=chrome&type=ws&host=delta090.qzz.io&path=/45.76.183.217=49292#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#%F0%9F%87%B9%F0%9F%87%ADTH-103.253.74.94-0358
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443/?security=tls&type=ws&path=/?ed=2560&host=powered-by-surena.configfarsi69805c0f2aac7.workers.dev&sni=powered-by-surena.configfarsi69805c0f2aac7.workers.dev&fp=chrome&encryption=none#@v2rays_ha 8083
+vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=&encryption=none&host=hazaranetwork.bh&type=xhttp#@ConfigV2RayNG 🚀 کانفیگ های بیشتر در چنل
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
