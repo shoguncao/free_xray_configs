@@ -5008,4 +5008,5 @@ vless://e939049d-fa5c-11f0-a1cb-920006d3a56e@speed.officialvpn.shop:102?path=/ws
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48212#⚡Telegram = @SOSkeyNET
 vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?path=/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&insecure=0&host=khamenei.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=KhAmeneI.DPdNs.OrG#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#%F0%9F%87%B7%F0%9F%87%BARU-45.138.157.162-0329
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?security=tls&allowInsecure=0&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop&fp=chrome&alpn=h2#@sogoandfuckyourlove
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
