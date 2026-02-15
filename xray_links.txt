@@ -5058,4 +5058,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%3E%3E%40Fr
 vless://22e7f0d3-8d3b-40c7-a1c5-8a912f6a16b3@188.114.96.3:443?path=/memo&security=tls&encryption=none&insecure=0&host=cdn.55994421.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn.55994421.xyz#Config 4 - @lebertad
 vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@104.18.32.47:443?path=/hsdgsws&security=tls&encryption=none&insecure=1&host=freuddd.info&fp=chrome&type=ws&allowInsecure=1&sni=freuddd.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.18-0459
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-0330
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
