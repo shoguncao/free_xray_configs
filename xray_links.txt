@@ -5155,4 +5155,5 @@ vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?encryp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@vpnbaz ⛩️
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.62.23:2087?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=tw.xmm9527.xyz&type=ws&allowInsecure=0&sni=tw.xmm9527.xyz#Channel : @Mrsoulb 🏴🏳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-0350
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?encryption=none&security=tls&sni=vbox1.ping-box.com&alpn=h2,http/1.1&fp=chrome&type=grpc#https://t.me/allproconf
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
