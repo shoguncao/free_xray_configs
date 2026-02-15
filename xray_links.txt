@@ -5069,4 +5069,5 @@ vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/eyJqdW5
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.68.250:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.68.250-0389
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#%3E%3E%40Awlix_ir%3A%3AXX
 vless://2ddeb056-17d4-421e-a318-39428733d4a2@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&sni=8p3cfl0ripm.zjde5.de5.net#@accessoryFardad
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.71.82.245:2096?path=/?ed=2560&Telegramv2rayngzendegimamadv2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.111000.cc.Cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.Cd#@v2rayngzendegimamad🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
