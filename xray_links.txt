@@ -5056,4 +5056,5 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#VayNora
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%3E%3E%40FreakConfig%3A%3AXX
 vless://22e7f0d3-8d3b-40c7-a1c5-8a912f6a16b3@188.114.96.3:443?path=/memo&security=tls&encryption=none&insecure=0&host=cdn.55994421.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn.55994421.xyz#Config 4 - @lebertad
+vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@104.18.32.47:443?path=/hsdgsws&security=tls&encryption=none&insecure=1&host=freuddd.info&fp=chrome&type=ws&allowInsecure=1&sni=freuddd.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
