@@ -5315,4 +5315,5 @@ vless://f9e6127c-c09f-4f04-b90b-2139a0ae8171@172.64.145.38:8443?path=/?ed=2560&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#[🇳🇱]t.me/ConfigsHub
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443/?path=/&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#@v2rays_ha 6971
 vless://fcf8a087-bfff-4825-9e63-9bcac86effa9@er4.v-sub.site:1517?security=none&type=tcp&headerType=http&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#⚡Telegram = @SOSkeyNET
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.16.147.32:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
