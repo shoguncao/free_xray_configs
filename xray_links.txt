@@ -5603,4 +5603,5 @@ vless://dfac7622-66ca-4efe-9976-76f04f4e5d8b@m65a.vip784.com:33801?security=&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#@YamYamProxy
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#⚡Telegram = @prrofile_purple
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YWI2NDIxNDhkYWJlOTc4@135.125.219.2:41237#⚜️@iran_V2ray1⚜️
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@meliproxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
