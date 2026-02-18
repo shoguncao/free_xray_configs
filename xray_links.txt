@@ -5628,4 +5628,5 @@ vless://1d964eb1-32a2-47da-a3b5-c896914cdc95@151.101.3.8:80?path=ws/?ed=2048/@Az
 vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?path=@CHANGE_IP1&security=none&encryption=none&host=www.time.ir&type=httpupgrade#⚡Telegram =ConfigV2RayNG
 vless://0a06d540-6fdd-416c-bdc3-54686f1f3659@m37a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@V2rayBaaz&headerType=http&type=tcp#r♡ya
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Amsterdam-Noord)🅿️ping:30.92ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#👉🆔 @v2ray_configs_pool 📡 🇳🇱NL_1 🧭 2.5MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
