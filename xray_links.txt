@@ -5767,4 +5767,5 @@ vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/eyJqdW5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://f1a8acd4-3c9e-486b-9c89-5668b744da46@soft98.ir-speedtest.net-google.com-bazar.ir.programming-center.ir:8080?mode=auto&path=/hdjbe&security=&encryption=none&type=xhttp#[86788] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#@ConfigV2RayNG 🚀 کانفیگ های بیشتر در چنل
+vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#@PRS_MLBB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
