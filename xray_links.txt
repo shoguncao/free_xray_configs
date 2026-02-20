@@ -5693,4 +5693,5 @@ vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443?path=%2
 vless://ed96b88e-cc12-4fad-8fcb-c0e3a56fc9d4@FASTLY4.FASTSPEEDS.IR:80?mode=auto&path=/&security=none&encryption=none&host=V2hous30.global.ssl.fastly.net&type=xhttp#ConfigV2RayNG
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@v2ray_configs_pools
 trojan://bpb-trojan@www.csgo.com:443?path=/tr?ed=2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#@AliXTso
+vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=/?ed&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#⚡Telegram = @PRS_MLBB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
