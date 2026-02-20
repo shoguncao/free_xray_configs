@@ -5769,4 +5769,5 @@ vless://f1a8acd4-3c9e-486b-9c89-5668b744da46@soft98.ir-speedtest.net-google.com-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#@ConfigV2RayNG 🚀 کانفیگ های بیشتر در چنل
 vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#@PRS_MLBB
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0261
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
