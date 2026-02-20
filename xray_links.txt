@@ -5699,4 +5699,5 @@ vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?security=tls&all
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80/?path=/?ed=512&security=&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#@v2rays_ha 7214
 vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@104.16.121.147:2052?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=none&encryption=none&host=nightping2.nightreseller.ir&type=xhttp&sni=api-at.cdnight.ir#اتصال دائمی با سرور های چنل🍦@Outline_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.58-0371
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
