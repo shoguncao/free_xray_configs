@@ -5818,4 +5818,5 @@ vless://2ddeb056-17d4-421e-a318-39428733d4a2@ip.notomarosww.com:8443?path=/Teleg
 trojan://cwCv14UD6o-XbGm7NKjHWPJ819FL@45.32.220.19:29014/?type=tcp&security=tls&sni=vk.com&allowInsecure=1#🧢58@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.137-0254
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#@X_RAY_VPN1
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&type=ws&host=piaz.mrconfigur.site&path=%2F&security=tls&sni=piaz.mrconfigur.site#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40kafing_2%20%5B7%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
