@@ -5915,4 +5915,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6Tkw6OlhYOjpOTCIsImFkZCI6InYzMC5oZGFj
 vless://0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net&fp=chrome&type=ws&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#تلگرام: یام‌یام پروکسی | YamYamProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-4872
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.205-0392
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.26.6.35:80?path=/&security=none&encryption=none&host=de.tawana.cf.panbehpanel.ir&type=ws#@V2rayBaaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
