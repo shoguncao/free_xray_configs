@@ -5791,4 +5791,5 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0@57.131.41.129:8390#MCI-@V2rayAlpha--4
 vless://a3873eb9-0c54-46c4-abbf-ae9f880d3619@162.19.228.119:443?path=/ssl&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=de.vpnbase.net#@kamkarstore
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=/153.121.45.101=443&sni=afrcloud22.mmv.kr#@V2raysCollector 🚩
+vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#کانفیگ رایگان = ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
