@@ -5789,4 +5789,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8
 vless://68f751f0-a653-43c2-97fc-0e0f4404d2ff@68.183.36.198:443/?type=ws&encryption=none&flow=&path=/xbzwjaws&security=tls&sni=github.com&allowInsecure=1#🔶8@oneclickvpnkeys
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#💜TELGERAM🖤@KIA_NET💜
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0@57.131.41.129:8390#MCI-@V2rayAlpha--4
+vless://a3873eb9-0c54-46c4-abbf-ae9f880d3619@162.19.228.119:443?path=/ssl&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=de.vpnbase.net#@kamkarstore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
