@@ -6045,4 +6045,5 @@ vless://2ac3e8c9-b521-4b2b-8b99-49e5b8d0d9d2@5.75.198.136:34823?security=&encryp
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=web.max.ru#@v2rays_ha 6639
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0418
 vless://8101e743-fab1-4c81-906c-f62eef26b07b@77.91.85.109:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRkxHc3ZvazVXS3VZYk0wT1RhdEhr@62.133.63.21:65262#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
