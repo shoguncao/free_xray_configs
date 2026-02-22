@@ -6018,4 +6018,5 @@ vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=/?ed&security=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443/?type=grpc&encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&allowInsecure=1&fp=chrome#@meliproxyy
 vless://9751a75b-b27c-4766-9e67-380599588612@afrcloud22.mmv.kr:443?path=/138.2.95.61=1111&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@vpnbaz ⚜️
 vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&encryption=none&path=%2Fapi%3Fed%3D2560&host=streamchat.ikoochi.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=streamchat.ikoochi.ir.#%3E%3E%40DigiV2ray%3A%3AFR
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0280
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
