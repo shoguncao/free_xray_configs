@@ -6086,4 +6086,5 @@ vless://nasnet@162.19.10.94:443?security=tls&alpn=h2,http/1.1&encryption=none&in
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.162.230.168:2096/?type=ws&encryption=none&flow=&host=sni.111000.v6.army&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.v6.army#🚩16@oneclickvpnkeys
 vless://49aefaed-ad06-4ce9-ad25-b75b6b489b0c@Www.speedtest.net:8880?path=/?ed=2048&security=none&encryption=none&host=mx.mmadvip8563.ir&type=ws&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.193:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=/Free-VPN-CF-Geo-Project/HK#[81744] - Telegram : @V2All
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#@MARAMBASHI 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
