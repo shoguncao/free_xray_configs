@@ -6234,3 +6234,4 @@ vmess://eyJhZGQiOiIxMDQuMTkuMTc0LjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#%F0%9F%87%A8%F0%9F%87%A6CA-193.203.203.66-0363
 vless://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@144.126.225.77:443/?type=ws&encryption=none&flow=&path=/zmiuyqws&security=tls&sni=wikiportal.ru&allowInsecure=1#🔶79@oneclickvpnkeys
 vless://fcf8a087-bfff-4825-9e63-9bcac86effa9@ert-8.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=admin.web-manage.com.tr&type=httpupgrade#Config 5 - @lebertad
+vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#t.me/Gp_Config
