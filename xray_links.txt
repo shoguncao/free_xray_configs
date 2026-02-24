@@ -6236,3 +6236,4 @@ vless://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@144.126.225.77:443/?type=ws&encrypt
 vless://fcf8a087-bfff-4825-9e63-9bcac86effa9@ert-8.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=admin.web-manage.com.tr&type=httpupgrade#Config 5 - @lebertad
 vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#t.me/Gp_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#🔴39@oneclickvpnkeys
+vmess://eyJhZGQiOiAiMTA0LjE5LjE3NC42OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwgImlkIjogImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvTkFTTkVUL2NkbiIsICJwb3J0IjogODA4MCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
