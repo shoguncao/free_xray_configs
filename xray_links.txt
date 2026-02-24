@@ -6229,3 +6229,4 @@ vless://c31f4d54-8dd4-45a8-aa24-0759aad5b4a9@141.227.134.118:18926?mode=gun&secu
 vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@nodejs.org:80?path=/?ed&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&type=ws#@icv2ray
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=/&security=tls&encryption=none&host=ca.adobe-connect.top&type=ws&sni=ca.adobe-connect.top#🔘 T.me/V2HUBIR | Join Now ✅️
 trojan://741add2a-b04d-48a1-9507-2a728dc4f428@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#%F0%9F%87%BF%F0%9F%87%A6ZA-156.38.168.58-0318
