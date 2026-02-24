@@ -6216,3 +6216,4 @@ vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/ca
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&host=diprox.pages.dev&type=ws&sni=DiprOX.pages.DEV#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29464#⚡Telegram = @SOSkeyNET
 vless://88181007-9bb3-4e6c-826d-4400b191b8d7@135.125.174.103:37928?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
+vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.197.251:80?path=/XR8So0uqFVa3vY9ZbxgW4&security=none&encryption=none&host=ghj.ae1autumn.cc.cd&type=ws#@v2_mod_shop🚀/همراه اول
