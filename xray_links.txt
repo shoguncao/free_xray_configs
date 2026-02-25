@@ -6298,3 +6298,4 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?security=none&type=w
 vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@glob.thisiswe.uno:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nobitex.sylu.net&fp=chrome&type=ws&allowInsecure=0&sni=nobitex.sylu.net#https://t.me/allproconf
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?allowInsecure=0&alpn=http/1.1&encryption=none&fp=chrome&host=hitgram.ir&insecure=0&path=/---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&sni=hitgram.ir&type=ws#⚡Telegram = @PRS_MLBB
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&host=o00o.snip.qzz.io&type=ws&sni=o00o.snip.qzz.io#🆔Telegram : @planB_net
+vless://68c89f56-3a15-46f2-9901-8c00a2546b97@172.64.144.74:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&host=rukawa.pages.dev&type=ws&sni=rukawa.pages.dev#@AliXTso
