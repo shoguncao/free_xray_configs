@@ -6286,3 +6286,4 @@ vmess://eyJhZGQiOiI6OmZmZmY6YWM0MDo5YmQxIiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.210-4875
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.81-0271
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#@V2RAYROZ
+trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#☺️91@oneclickvpnkeys
