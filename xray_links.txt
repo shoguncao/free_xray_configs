@@ -6366,3 +6366,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-penni
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJ0Z2p1Lm9yZyIsInBvcnQiOiI4MDgwIiwidHlwZSI6Ii0tLSIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCJ0bHMiOiIifQ==
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#Telegram:@config_proxy 🔥
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&path=/assignment&type=ws#🍭77@oneclickvpnkeys
+vless://b658a9a6-f8f5-4a86-a438-f912a8509db2@5.255.114.61:2083?alpn=http/1.1&encryption=none&host=native.loveplus.de5.net&path=/ehueueuejs&security=tls&sni=native.loveplus.de5.net&type=ws#@azadi_config
