@@ -6389,3 +6389,4 @@ vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?path=/?ed&security=none&encryption=none&host=exemplary-milkytsxqiqyso.sportland.company.&type=ws#⚜️@IRAN_V2RAY1⚜️
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.85:443?encryption=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#@V2raysCollector 🕺
 vless://b7039fbe-0359-4d91-977d-a926203b1936@afrcloud22.mmv.kr:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@kamkarstore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOGUyMTAyY2EzZWVlN2Vj@141.95.106.231:11201#Channel id: @config_v2rayy 🇩🇪
