@@ -6345,3 +6345,4 @@ vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=/?ed&security=
 vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmki.0oj.ccwu.cc:80/?encryption=none&security=none&sni=nnmmki.0oj.ccwu.cc&fp=chrome&type=ws&host=nnmmki.0oj.ccwu.cc&path=/HoBSIvRY1m5xOEJ3dX414bl#@v2rays_ha 11193
 vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@nsop.mastermarly.ir:2096?path=/path&security=tls&encryption=none&insecure=0&host=francoo.mastermarly.ir&fp=chrome&type=ws&allowInsecure=0&sni=francoo.mastermarly.ir#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0288
+vless://1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws#%40V2ray_confiig`
