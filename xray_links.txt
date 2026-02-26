@@ -6349,3 +6349,4 @@ vless://1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@nodejs.org:80?path=%2F%3Fed&securit
 vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80?encryption=none&security=none&type=ws&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&path=/?ed#@v2rays_ha 6091
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?#https://t.me/allproconf
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20SS%20%7C%20%40NamiraConfigs
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#Telegram = @v2raycan1
