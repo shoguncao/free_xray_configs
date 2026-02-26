@@ -6322,3 +6322,4 @@ trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.55:3423?security=tls&sni=ww
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=Pulavpn11.afrcloud22.mmv.kr#@chillguy_vpn
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.70.180:1331?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%2010.3MB%2Fs
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.200.18.248:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#⚡Telegram = @SOSkeyNET
