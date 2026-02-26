@@ -6317,3 +6317,4 @@ vmess://eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoi
 trojan://yUHNMwWvenoHBaN5CtqKPwt1CTzXgW@ru2.nnvpn.io:443?sni=ru2.nnvpn.io&fp=chrome&note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxNzIuNjQuMTUyLjIzIiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoiLS0tIiwiaWQiOiIxOWU1MmJmNC0xYjdkLTRiZDQtYWU2Ni02Y2EwMjQ0MzZjMTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2didCIsImhvc3QiOiJmcnN5cy5mbC1kbC5jb20iLCJ0bHMiOiJ0bHMifQ==
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.41:443?path=@ChinaPortGFW&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#@YamYamProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#@YamYamProxy ♥
