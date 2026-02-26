@@ -6362,3 +6362,4 @@ vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@fi.sepshoping.de:8016?security=&enc
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=atus.pabloping.pro&type=xhttp#🇺🇸 |⚡@EuServer
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.17.25.173:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir#💞31@oneclickvpnkeys
 trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#⚡Telegram = @SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?type=tcp#🇺🇸[@V2FERi]ss-US🔒
