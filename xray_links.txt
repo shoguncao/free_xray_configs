@@ -6335,3 +6335,4 @@ vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?security=&encryp
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#%3E%3E%40vmessiran%3A%3AUS
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80?security=none&type=ws&path=/@WireXnet?ed=2048&host=netherlands.padoamu.workers.dev&encryption=none#@v2rays_ha 5335
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @FreakConfig
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#%3E%3E%40oneclickvpnkeys%3A%3AUS
