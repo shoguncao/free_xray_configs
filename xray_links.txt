@@ -6347,3 +6347,4 @@ vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@nsop.mastermarly.ir:2096?path=/path
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0288
 vless://1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws#%40V2ray_confiig`
 vless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80?encryption=none&security=none&type=ws&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&path=/?ed#@v2rays_ha 6091
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?#https://t.me/allproconf
