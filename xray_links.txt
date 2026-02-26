@@ -6386,3 +6386,4 @@ trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#@appsooner کانال تلگرام 🕊️
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@filembad
 vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#کانفیگ رایگان = t.me/arisping
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?path=/?ed&security=none&encryption=none&host=exemplary-milkytsxqiqyso.sportland.company.&type=ws#⚜️@IRAN_V2RAY1⚜️
