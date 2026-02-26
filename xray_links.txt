@@ -6414,3 +6414,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6REU6OkRFOjpERTo6REU6OkRFIiwiYWRkIjoi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#Telegram: @ConfigV2RayNG
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@cf.narton.ir:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=r4fnviw9jl4i4rx.zjde5.de5.net&path=/?ed&sni=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&alpn=http/1.1#@sogoandfuckyourlove🔫
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re#%3E%3E%40oneclickvpnkeys%3A%3ACA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.194-0292
