@@ -6354,3 +6354,4 @@ vless://929c6e27-4c24-4775-bc51-0e6117dabd4b@my.montago-shop.ir:443?type=ws&secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0233
 vless://1d6a4595-2568-4262-a3fc-99270ef3f51f@151.101.66.219:80?mode=auto&path=/&security=none&encryption=none&host=cdndigikala.com&type=xhttp#ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201?#shankamil
+vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?encryption=none&path=/vless/&security=none&type=ws#@chillguy_vpn
