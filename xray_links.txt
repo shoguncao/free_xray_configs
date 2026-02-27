@@ -6596,3 +6596,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMiA0LjBNQi9zIiwiYWRkIjoiNTEuNzkuMTAyLjI1MyIs
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#@ConfigV2RayNG[🇺🇸] ☁️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVaDExYmcxTkt2akZkZ0QzZ3ZocWpxcmRMMmpFbTJHVUNWTU1US0Z5dWJ5b0RWM3dWU1FMY1lWcmhpQzdBU0hxekE0Uml2YmRYYk5LTFdRc3ppUmtibThuZGZxTFlubWI=@mx2.drawnrisha.one:55988#[99227] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0294
+vless://f84ab055-3ffe-4a90-aad3-30596550b03c@sad24.ahg6k.1k3dv.carvan3.mimkiscx.ir:2095?path=/?ed=2087&security=none&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#@kamkarstore
