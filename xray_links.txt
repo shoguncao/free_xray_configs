@@ -6538,3 +6538,4 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443/?type=
 trojan://humanity@172.64.152.23:443?allowInsecure=0&fp=chrome&host=www.gossipglove.com&insecure=0&path=/assignment&security=tls&sni=www.gossipglove.com&type=ws#⚡Telegram = @PRS_MLBB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#@ConfigV2RayNG
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.39.239:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@Blank_Vpn لطفا برای حمایت جوین شید
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#%F0%9F%87%A7%F0%9F%87%ACBG-95.164.10.228-0265
