@@ -6478,3 +6478,4 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?path=/azadnet-1ml
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%3E%3E%40Easy_Free_VPN%3A%3ANL
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?encryption=none&security=tls&sni=joinProxyVPN11.afrcloud22.mmv.kr&fp=chrome&type=ws&host=afrcloud22.mmv.kr&path=%2F#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWGs1RUd6UlZZRGpZcWNXQzVGd0Qz@62.133.60.43:36456#%F0%9F%87%A9%F0%9F%87%AADE-62.133.60.43-0329
+vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#@bored_vpn
