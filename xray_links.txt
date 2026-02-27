@@ -6556,3 +6556,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.103.100.127:2053?path=/?ed=2560
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.76:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram@AliXTso&sni=sni.111000.indevs.in&fp=chrome#@sogoandfuckyourlove
 vless://725495fc-61fc-4c68-bf27-54bb4459d37d@104.18.32.47:8443?type=ws&encryption=none&path=%2Fapi%3Fed%3D2560&host=NewChat1.ikoOchi.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=NewChat1.ikoOchi.ir#%3E%3E%40DigiV2ray%3A%3AFR
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=&encryption=none&headerType=http&type=tcp#@filembad
+vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=/&security=none&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#💙 @Bluefilter_org | 👈 تلگراممون
