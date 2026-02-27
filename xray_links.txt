@@ -6506,3 +6506,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.13
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#%3E%3E%40FreakConfig%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#%3E%3E%40FreakConfig%3A%3ADE
 vless://9523a24b-f6bf-339e-9950-32829162ffc2@v1.dabache.top:443/?type=ws&encryption=none&flow=&host=dabaihk.webn.cc&path=%2Fdb1024532f9883c8&security=tls&sni=dabaihk.webn.cc&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#%F0%9F%87%A8%F0%9F%87%A6CA-23.95.76.59-0296
