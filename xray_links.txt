@@ -6448,3 +6448,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgMzMuN0tCL3MiLCJhZGQiOiI2OS42My4yMTAuMzUiLCJwb3J0
 vless://c249ca6f-1bde-479b-af96-da0e948a3800@zzula.ir:443?security=tls&type=ws&path=/admin&host=zitel.digikala-aparat-zula.com&sni=zitel.digikala-aparat-zula.com&fp=chrome&encryption=none#@v2rays_ha 5270
 vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@v2.dabache.top:2053?path=/danfeng&security=tls&encryption=none&host=snippet.fgfw.ccwu.cc&fp=chrome&type=ws&sni=snippet.fgfw.ccwu.cc#@YamYamProxy-02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#%F0%9F%87%AA%F0%9F%87%A8EC-38.165.231.25-0194
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&allowInsecure=0&encryption=none&type=tcp&host=uptvs.com&path=/&headerType=http#@v2rays_ha 6771
