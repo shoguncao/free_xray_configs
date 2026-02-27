@@ -6490,3 +6490,4 @@ vless://nasnet@57.129.64.102:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=no
 trojan://humanity@104.18.32.47:443/?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=/assignment&security=tls&sni=www.multiplydose.com&type=ws#@v2rays_ha 7686
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#💠86@oneclickvpnkeys
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#⚡Telegram = @SOSkeyNET
+vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&host=TELEGRAM-ALIXTSO&headerType=none&type=tcp#@AliXTso
