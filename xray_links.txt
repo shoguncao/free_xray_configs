@@ -6491,3 +6491,4 @@ trojan://humanity@104.18.32.47:443/?allowInsecure=1&fp=chrome&host=www.multiplyd
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#💠86@oneclickvpnkeys
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#⚡Telegram = @SOSkeyNET
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&host=TELEGRAM-ALIXTSO&headerType=none&type=tcp#@AliXTso
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#@MARAMBASHI 🇬🇧
