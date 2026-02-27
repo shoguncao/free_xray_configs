@@ -6526,3 +6526,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpVUzo6VVM6OlVTOjpVUzo6WFg6OlhYOjpYWDo6
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v6.carwashipdir.shop&alpn=h2&insecure=1&type=grpc&mode=gun#@chillguy_vpn
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&insecure=0&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#@V2rayBaaz🫧 🪀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157:8080#BESTIIVPNBOT
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@chillguy_vpn
