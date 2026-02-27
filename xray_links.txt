@@ -6428,3 +6428,4 @@ vless://cd5c4a0f-d482-40c4-aa15-005597f1ad47@ip.fastlynew.hosting-ip.com:80?type
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&encryption=none&type=ws&path=/vless/#@chillguy_vpn
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#@v2rays_ha 6763
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#🔵@chillguy_vpn
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&sni=pages.dev#@v2rays_ha 5992
