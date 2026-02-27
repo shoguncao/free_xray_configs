@@ -6434,3 +6434,4 @@ vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@delilah.ns.cloudflare.com:443?path=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplODMzNTdlYTMxYjA5OGJk@141.95.105.6:11201#⚡Telegram = @SOSkeyNET
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&path=/pabloping&security=&encryption=none&host=upnl.pabloping.pro&type=xhttp#@Hddify
 trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.39.240:491?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#@v2rayngzendegimamad🕊️
