@@ -6629,3 +6629,4 @@ vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@104.17.165.123:8443?path=/?ed=2560&
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#جوین چنل شید قط نشید@shankamil
 vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345?security=&encryption=none&headerType=&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0208
+ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#🇺🇸@vpnserverrr
