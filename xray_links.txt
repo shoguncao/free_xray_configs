@@ -6443,3 +6443,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=/
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=vusp.pabloping.pro&type=xhttp#ConfigV2RayNG
 vmess://eyJhZGQiOiIxNzIuNjQuMTQ5LjE4MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJwb3J0IjoiODA4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6IkBWMnJheXNDb2xsZWN0b3Ig8J+SliJ9
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🟢Ṭelegram"@Filtering2020"
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%5BT.me%2FSHADOW_CONFBOT%5D%20GB
