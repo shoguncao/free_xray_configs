@@ -6697,3 +6697,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpYWDo6WFgiLCJhZGQiOiIxNzIuMjMzLjIyOS45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0429
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?type=ws&security=tls&path=/trojan-ws&host=xo.e0f.cx&sni=xo.e0f.cx&allowInsecure=1#⚡Telegram = @SOSkeyNET
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@157.245.200.76:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#🇸🇬 机场
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.70.205:23022?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#⚡Telegram = @SOSkeyNET
