@@ -6679,3 +6679,4 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&alpn=h2,http/1
 vless://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@kli.988988.shop:443?security=tls&encryption=none&sni=kli.988988.shop&type=ws&host=kli.988988.shop&path=/UzlFfVDyqJL3rI4BWzwNzcYz&allow_insecure=0#@chillguy_vpn
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTUgNi41TUIvcyIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6IjQ0MyIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiQVpFUkIuTkVUIiwicGF0aCI6Ii92bWVzc3dzIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTUifQ==
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&sni=deu549.worldbypass.org&fp=chrome&headerType=none#@chillguy_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.247-4883
