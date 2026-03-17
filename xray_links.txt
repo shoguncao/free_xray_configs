@@ -6716,3 +6716,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8
 vless://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?encryption=none&headerType=http&host=testspeed-foreign.tci.ir/?BIA_TELEGRAM@AKBARCONFIG_AKBARCONFIG_AKBARCONFIG_AKBARCONFIG_AKBARCONFIG&security=none&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%20%40red2ray%20%231
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=/#@chillguy_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.191-0113
