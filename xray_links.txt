@@ -6746,3 +6746,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.238:2096?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌱55@oneclickvpnkeys
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#@Capoit
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A514
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#@freenettir
