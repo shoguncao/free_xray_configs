@@ -6736,3 +6736,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.218:443?encryption=none&s
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@210.6.207.42:18622?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳 @WangCai2#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.2.182:990?#✅@AR14N24b
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#@Hattric_Official
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--@NetifyVPN--#🇬🇧[openproxylist.com] ss-GB
