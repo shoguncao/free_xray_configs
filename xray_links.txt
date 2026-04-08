@@ -6807,3 +6807,4 @@ trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?security=tls&type=ws&sni=004.eLecTrOC
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮@config_v2rayy
 vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?security=none&encryption=none&type=ws&path=/vless/#@v2rayconfigamir 6338
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@meliproxyy
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&encryption=none&host=yousef.varzesh.dpdns.org&path=/&security=tls&sni=yousef.varzesh.dpdns.org&type=ws#🌷20@oneclickvpnkeys
