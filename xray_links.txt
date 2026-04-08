@@ -6831,3 +6831,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.111.44:8443?path=/?ed=2560&Te
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.101.121.169:2096?path=/?ed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@meliproxyy
 trojan://humanity@188.114.98.0:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#💫90@oneclickvpnkeys
 trojan://humanity@172.64.152.23:443/?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rays_ha 10200
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.35-0228
