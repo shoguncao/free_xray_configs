@@ -6805,3 +6805,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=/?ed=2560&Te
 trojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#@v2rays_ha 9666
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?security=tls&type=ws&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&path=/eyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19?ed=2560&host=004.electrocellco-cf-004.workers.dev#%E6%9C%AA%E7%9F%A513
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮@config_v2rayy
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?security=none&encryption=none&type=ws&path=/vless/#@v2rayconfigamir 6338
