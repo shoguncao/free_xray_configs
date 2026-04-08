@@ -6833,3 +6833,4 @@ trojan://humanity@188.114.98.0:443/?type=ws&host=www.calmlunch.com&path=/assignm
 trojan://humanity@172.64.152.23:443/?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rays_ha 10200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.35-0228
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.217-0224
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0183
