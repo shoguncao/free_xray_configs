@@ -6799,3 +6799,4 @@ trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=1&hos
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.43.124:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#All-@V2rayAlpha-7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#https://t.me/v2raynplus |🇳🇱🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0260
